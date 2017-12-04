@@ -1,0 +1,7 @@
+---
+- name: print varible
+  debug:
+    msg: "System {{ openldap_server_domain_name }} and {{ openldap_server_country }} "
+
+- import_tasks: install_ldap.yml
+- import_tasks: configure_ldap.yml
