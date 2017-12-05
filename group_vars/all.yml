@@ -4,7 +4,7 @@
 openldap_server_domain_name: sfgroups.com
 
 #This is the password for admin for openldap 
-openldap_server_rootpw: passme
+openldap_server_rootpw: password
 
 #The self signed ssl parameters
 openldap_server_country: US

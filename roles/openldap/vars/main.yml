@@ -1,4 +1,5 @@
 openldap_server_pkgs:
+  - openldap
   - openldap-servers
   - openldap-clients
   - libselinux-python

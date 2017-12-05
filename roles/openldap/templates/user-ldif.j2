@@ -1,0 +1,17 @@
+dn: uid=webuser,ou=People,dc={{ openldap_server_domain_name.split('.')[0] }},dc={{ openldap_server_domain_name.split('.')[1] }}
+objectClass: top
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: webuser
+uid: webuser
+uidNumber: 9999
+gidNumber: 100
+homeDirectory: /home/webuser
+loginShell: /bin/bash
+gecos: web user
+userPassword: {crypt}x
+shadowLastChange: 17058
+shadowMin: 0
+shadowMax: 99999
+shadowWarning: 7
