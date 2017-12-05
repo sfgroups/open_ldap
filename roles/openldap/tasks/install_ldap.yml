@@ -2,6 +2,7 @@
 
 - name: Add the OS specific varibles
   include_vars: "{{ ansible_os_family }}.yml"
+  tags: sldapconf
 
 - name: Install the openldap and required Packages for RedHat
   yum: name={{ item }} state=installed
@@ -9,6 +10,9 @@
     - openldap-servers
     - openldap-clients
     - libselinux-python
+    - compat-openldap 
+    - lua-ldap
+    - openldap-devel
     - openssl  
   when: ansible_os_family == 'RedHat'
 
@@ -24,12 +28,14 @@
 - name: Generate the root password for ldap
   shell: slappasswd -s "passme"
   register: root_password
+  tags: sldapconf
 
 - name: Copy the slapd.conf configuration file for Redhat
   template: src=slapd.conf.j2 dest={{ openldap_server_app_path }}/slapd.conf
   when: ansible_os_family == "RedHat"
   notify: 
    - restart slapd
+  tags: sldapconf
 
 - name: Copy the slapd.conf configuration file
   template: src=slapd.conf_ubuntu.j2 dest={{ openldap_server_app_path }}/slapd.conf
