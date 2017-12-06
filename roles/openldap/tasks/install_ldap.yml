@@ -9,6 +9,14 @@
   when: ansible_os_family == 'RedHat'
   tags: pkginstall
 
+- name: Make /var/lib/ldap/ directory tree owned by ldap user
+  file:
+    path: /var/lib/ldap/
+    mode: 0750
+    owner: "{{ openldap_server_user }}"
+    group: "{{ openldap_server_user }}"
+    recurse: yes
+
 - name: Enable slapd service
   systemd:
     name: slapd

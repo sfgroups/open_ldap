@@ -1,0 +1,2558 @@
+-- Logs begin at Fri 2017-12-01 16:28:37 EST, end at Tue 2017-12-05 20:18:46 EST. --
+Dec 04 08:13:40 webserver chronyd[752]: Source 108.59.2.24 online
+Dec 04 08:13:40 webserver chronyd[752]: Source 204.11.201.10 online
+Dec 04 08:13:40 webserver chronyd[752]: Source 12.167.151.1 online
+Dec 04 08:13:40 webserver chronyd[752]: Source 45.79.111.114 online
+Dec 04 08:13:41 webserver nm-dispatcher[1394]: req:4 'connectivity-change': start running ordered scripts...
+Dec 04 08:14:02 webserver PackageKit[2798]: get-updates transaction /1154_cabbbbad from uid 0 finished with success after 21328ms
+Dec 04 08:14:02 webserver PackageKit[2798]: new update-packages transaction /1155_daebccbb scheduled from uid 0
+Dec 04 08:14:04 webserver PackageKit[2798]: update-packages transaction /1155_daebccbb from uid 0 finished with success after 1959ms
+Dec 04 08:14:08 webserver PackageKit[2798]: get-updates transaction /1156_adaadcac from uid 0 finished with success after 3866ms
+Dec 04 08:14:08 webserver PackageKit[2798]: get-updates transaction /1157_ceebebcc from uid 0 finished with success after 362ms
+Dec 04 08:16:55 webserver chronyd[752]: Selected source 12.167.151.1
+Dec 04 08:20:01 webserver systemd[1]: Started Session 247 of user root.
+-- Subject: Unit session-247.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-247.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 08:20:01 webserver CROND[1727]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 08:20:01 webserver systemd[1]: Starting Session 247 of user root.
+-- Subject: Unit session-247.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-247.scope has begun starting up.
+Dec 04 08:25:35 webserver chronyd[752]: Selected source 204.11.201.10
+Dec 04 08:30:01 webserver systemd[1]: Started Session 248 of user root.
+-- Subject: Unit session-248.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-248.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 08:30:01 webserver systemd[1]: Starting Session 248 of user root.
+-- Subject: Unit session-248.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-248.scope has begun starting up.
+Dec 04 08:30:01 webserver CROND[1971]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 08:40:01 webserver systemd[1]: Started Session 249 of user root.
+-- Subject: Unit session-249.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-249.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 08:40:01 webserver CROND[2240]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 08:40:01 webserver systemd[1]: Starting Session 249 of user root.
+-- Subject: Unit session-249.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-249.scope has begun starting up.
+Dec 04 08:47:10 webserver chronyd[752]: Selected source 12.167.151.1
+Dec 04 08:50:01 webserver systemd[1]: Started Session 250 of user root.
+-- Subject: Unit session-250.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-250.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 08:50:01 webserver CROND[2529]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 08:50:01 webserver systemd[1]: Starting Session 250 of user root.
+-- Subject: Unit session-250.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-250.scope has begun starting up.
+Dec 04 09:00:01 webserver systemd[1]: Started Session 251 of user root.
+-- Subject: Unit session-251.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-251.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 09:00:01 webserver CROND[2848]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 09:00:01 webserver systemd[1]: Starting Session 251 of user root.
+-- Subject: Unit session-251.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-251.scope has begun starting up.
+Dec 04 09:01:01 webserver systemd[1]: Started Session 252 of user root.
+-- Subject: Unit session-252.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-252.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 09:01:01 webserver CROND[2890]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 04 09:01:01 webserver systemd[1]: Starting Session 252 of user root.
+-- Subject: Unit session-252.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-252.scope has begun starting up.
+Dec 04 09:01:01 webserver run-parts(/etc/cron.hourly)[2896]: [1;39mstarting 0anacron[0m
+Dec 04 09:01:01 webserver anacron[2904]: [1;39mAnacron started on 2017-12-04[0m
+Dec 04 09:01:01 webserver anacron[2904]: [1;39mWill run job `cron.daily' in 21 min.[0m
+Dec 04 09:01:01 webserver anacron[2904]: [1;39mJobs will be executed sequentially[0m
+Dec 04 09:01:01 webserver run-parts(/etc/cron.hourly)[2907]: [1;39mfinished 0anacron[0m
+Dec 04 09:01:01 webserver run-parts(/etc/cron.hourly)[2909]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 04 09:09:51 webserver run-parts(/etc/cron.hourly)[3237]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 04 09:09:51 webserver postfix/pickup[1576]: 41EE943CAB7C: uid=0 from=<root>
+Dec 04 09:09:51 webserver postfix/cleanup[3239]: 41EE943CAB7C: message-id=<20171204140951.41EE943CAB7C@webserver.localdomain>
+Dec 04 09:09:51 webserver postfix/qmgr[2166]: 41EE943CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 04 09:09:51 webserver postfix/local[3241]: 41EE943CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.11, delays=0.09/0.03/0/0, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 04 09:09:51 webserver postfix/qmgr[2166]: 41EE943CAB7C: removed
+Dec 04 09:10:01 webserver systemd[1]: Started Session 253 of user root.
+-- Subject: Unit session-253.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-253.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 09:10:01 webserver CROND[3243]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 09:10:01 webserver systemd[1]: Starting Session 253 of user root.
+-- Subject: Unit session-253.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-253.scope has begun starting up.
+Dec 04 09:20:01 webserver systemd[1]: Started Session 254 of user root.
+-- Subject: Unit session-254.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-254.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 09:20:01 webserver CROND[3520]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 09:20:01 webserver systemd[1]: Starting Session 254 of user root.
+-- Subject: Unit session-254.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-254.scope has begun starting up.
+Dec 04 09:22:01 webserver anacron[2904]: [1;39mJob `cron.daily' started[0m
+Dec 04 09:22:01 webserver run-parts(/etc/cron.daily)[3579]: [1;39mstarting 0yum-daily.cron[0m
+Dec 04 09:30:01 webserver systemd[1]: Started Session 255 of user root.
+-- Subject: Unit session-255.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-255.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 09:30:01 webserver CROND[3781]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 09:30:01 webserver systemd[1]: Starting Session 255 of user root.
+-- Subject: Unit session-255.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-255.scope has begun starting up.
+Dec 04 09:40:01 webserver systemd[1]: Started Session 256 of user root.
+-- Subject: Unit session-256.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-256.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 09:40:01 webserver systemd[1]: Starting Session 256 of user root.
+-- Subject: Unit session-256.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-256.scope has begun starting up.
+Dec 04 09:40:01 webserver CROND[4011]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 09:50:01 webserver systemd[1]: Started Session 257 of user root.
+-- Subject: Unit session-257.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-257.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 09:50:01 webserver CROND[4250]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 09:50:01 webserver systemd[1]: Starting Session 257 of user root.
+-- Subject: Unit session-257.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-257.scope has begun starting up.
+Dec 04 10:00:01 webserver systemd[1]: Started Session 258 of user root.
+-- Subject: Unit session-258.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-258.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 10:00:01 webserver CROND[4526]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 10:00:01 webserver systemd[1]: Starting Session 258 of user root.
+-- Subject: Unit session-258.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-258.scope has begun starting up.
+Dec 04 10:01:02 webserver systemd[1]: Started Session 259 of user root.
+-- Subject: Unit session-259.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-259.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 10:01:02 webserver CROND[4560]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 04 10:01:02 webserver systemd[1]: Starting Session 259 of user root.
+-- Subject: Unit session-259.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-259.scope has begun starting up.
+Dec 04 10:01:02 webserver run-parts(/etc/cron.hourly)[4564]: [1;39mstarting 0anacron[0m
+Dec 04 10:01:02 webserver anacron[4574]: [1;39mAnacron started on 2017-12-04[0m
+Dec 04 10:01:02 webserver anacron[4574]: [1;39mJob `cron.daily' locked by another anacron - skipping[0m
+Dec 04 10:01:02 webserver anacron[4574]: [1;39mNormal exit (0 jobs run)[0m
+Dec 04 10:01:02 webserver run-parts(/etc/cron.hourly)[4576]: [1;39mfinished 0anacron[0m
+Dec 04 10:01:02 webserver run-parts(/etc/cron.hourly)[4578]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 04 10:01:47 webserver run-parts(/etc/cron.hourly)[4656]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 04 10:01:47 webserver postfix/pickup[4338]: F2AE443CAB7C: uid=0 from=<root>
+Dec 04 10:01:48 webserver postfix/cleanup[4658]: F2AE443CAB7C: message-id=<20171204150147.F2AE443CAB7C@webserver.localdomain>
+Dec 04 10:01:48 webserver postfix/qmgr[2166]: F2AE443CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 04 10:01:48 webserver postfix/local[4661]: F2AE443CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.12, delays=0.09/0.03/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 04 10:01:48 webserver postfix/qmgr[2166]: F2AE443CAB7C: removed
+Dec 04 10:10:01 webserver systemd[1]: Started Session 260 of user root.
+-- Subject: Unit session-260.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-260.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 10:10:01 webserver CROND[4861]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 10:10:01 webserver systemd[1]: Starting Session 260 of user root.
+-- Subject: Unit session-260.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-260.scope has begun starting up.
+Dec 04 10:20:01 webserver systemd[1]: Started Session 261 of user root.
+-- Subject: Unit session-261.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-261.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 10:20:01 webserver CROND[5094]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 10:20:01 webserver systemd[1]: Starting Session 261 of user root.
+-- Subject: Unit session-261.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-261.scope has begun starting up.
+Dec 04 10:30:01 webserver systemd[1]: Started Session 262 of user root.
+-- Subject: Unit session-262.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-262.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 10:30:01 webserver CROND[5331]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 10:30:01 webserver systemd[1]: Starting Session 262 of user root.
+-- Subject: Unit session-262.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-262.scope has begun starting up.
+Dec 04 10:40:01 webserver systemd[1]: Started Session 263 of user root.
+-- Subject: Unit session-263.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-263.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 10:40:01 webserver systemd[1]: Starting Session 263 of user root.
+-- Subject: Unit session-263.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-263.scope has begun starting up.
+Dec 04 10:40:01 webserver CROND[5565]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 10:50:01 webserver systemd[1]: Started Session 264 of user root.
+-- Subject: Unit session-264.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-264.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 10:50:01 webserver CROND[5808]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 10:50:01 webserver systemd[1]: Starting Session 264 of user root.
+-- Subject: Unit session-264.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-264.scope has begun starting up.
+Dec 04 11:00:01 webserver systemd[1]: Started Session 265 of user root.
+-- Subject: Unit session-265.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-265.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 11:00:01 webserver CROND[6047]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 11:00:01 webserver systemd[1]: Starting Session 265 of user root.
+-- Subject: Unit session-265.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-265.scope has begun starting up.
+Dec 04 11:01:01 webserver systemd[1]: Started Session 266 of user root.
+-- Subject: Unit session-266.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-266.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 11:01:01 webserver systemd[1]: Starting Session 266 of user root.
+-- Subject: Unit session-266.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-266.scope has begun starting up.
+Dec 04 11:01:01 webserver CROND[6080]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 04 11:01:01 webserver run-parts(/etc/cron.hourly)[6083]: [1;39mstarting 0anacron[0m
+Dec 04 11:01:01 webserver anacron[6090]: [1;39mAnacron started on 2017-12-04[0m
+Dec 04 11:01:01 webserver anacron[6090]: [1;39mJob `cron.daily' locked by another anacron - skipping[0m
+Dec 04 11:01:01 webserver anacron[6090]: [1;39mNormal exit (0 jobs run)[0m
+Dec 04 11:01:01 webserver run-parts(/etc/cron.hourly)[6092]: [1;39mfinished 0anacron[0m
+Dec 04 11:01:01 webserver run-parts(/etc/cron.hourly)[6094]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 04 11:10:01 webserver systemd[1]: Started Session 267 of user root.
+-- Subject: Unit session-267.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-267.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 11:10:01 webserver CROND[6308]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 11:10:01 webserver systemd[1]: Starting Session 267 of user root.
+-- Subject: Unit session-267.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-267.scope has begun starting up.
+Dec 04 11:14:51 webserver run-parts(/etc/cron.hourly)[6473]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 04 11:14:52 webserver postfix/pickup[4338]: 0797143CAB7C: uid=0 from=<root>
+Dec 04 11:14:52 webserver postfix/cleanup[6475]: 0797143CAB7C: message-id=<20171204161452.0797143CAB7C@webserver.localdomain>
+Dec 04 11:14:52 webserver postfix/qmgr[2166]: 0797143CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 04 11:14:52 webserver postfix/local[6478]: 0797143CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.14, delays=0.09/0.03/0/0.02, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 04 11:14:52 webserver postfix/qmgr[2166]: 0797143CAB7C: removed
+Dec 04 11:20:01 webserver systemd[1]: Started Session 268 of user root.
+-- Subject: Unit session-268.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-268.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 11:20:01 webserver CROND[6605]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 11:20:01 webserver systemd[1]: Starting Session 268 of user root.
+-- Subject: Unit session-268.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-268.scope has begun starting up.
+Dec 04 11:30:01 webserver systemd[1]: Started Session 269 of user root.
+-- Subject: Unit session-269.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-269.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 11:30:01 webserver CROND[6841]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 11:30:01 webserver systemd[1]: Starting Session 269 of user root.
+-- Subject: Unit session-269.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-269.scope has begun starting up.
+Dec 04 11:40:01 webserver systemd[1]: Started Session 270 of user root.
+-- Subject: Unit session-270.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-270.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 11:40:01 webserver systemd[1]: Starting Session 270 of user root.
+-- Subject: Unit session-270.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-270.scope has begun starting up.
+Dec 04 11:40:01 webserver CROND[7075]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 11:50:01 webserver systemd[1]: Started Session 271 of user root.
+-- Subject: Unit session-271.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-271.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 11:50:01 webserver CROND[7309]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 11:50:01 webserver systemd[1]: Starting Session 271 of user root.
+-- Subject: Unit session-271.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-271.scope has begun starting up.
+Dec 04 12:00:01 webserver systemd[1]: Started Session 272 of user root.
+-- Subject: Unit session-272.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-272.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 12:00:01 webserver CROND[7552]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 12:00:01 webserver systemd[1]: Starting Session 272 of user root.
+-- Subject: Unit session-272.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-272.scope has begun starting up.
+Dec 04 12:01:01 webserver systemd[1]: Started Session 273 of user root.
+-- Subject: Unit session-273.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-273.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 12:01:01 webserver CROND[7578]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 04 12:01:01 webserver systemd[1]: Starting Session 273 of user root.
+-- Subject: Unit session-273.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-273.scope has begun starting up.
+Dec 04 12:01:01 webserver run-parts(/etc/cron.hourly)[7581]: [1;39mstarting 0anacron[0m
+Dec 04 12:01:01 webserver anacron[7588]: [1;39mAnacron started on 2017-12-04[0m
+Dec 04 12:01:01 webserver anacron[7588]: [1;39mJob `cron.daily' locked by another anacron - skipping[0m
+Dec 04 12:01:01 webserver anacron[7588]: [1;39mNormal exit (0 jobs run)[0m
+Dec 04 12:01:01 webserver run-parts(/etc/cron.hourly)[7590]: [1;39mfinished 0anacron[0m
+Dec 04 12:01:01 webserver run-parts(/etc/cron.hourly)[7592]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 04 12:06:22 webserver run-parts(/etc/cron.hourly)[7768]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 04 12:06:22 webserver postfix/pickup[6875]: 2B6B843CAB7C: uid=0 from=<root>
+Dec 04 12:06:22 webserver postfix/cleanup[7770]: 2B6B843CAB7C: message-id=<20171204170622.2B6B843CAB7C@webserver.localdomain>
+Dec 04 12:06:22 webserver postfix/qmgr[2166]: 2B6B843CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 04 12:06:22 webserver postfix/local[7773]: 2B6B843CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.12, delays=0.09/0.03/0/0, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 04 12:06:22 webserver postfix/qmgr[2166]: 2B6B843CAB7C: removed
+Dec 04 12:10:01 webserver systemd[1]: Started Session 274 of user root.
+-- Subject: Unit session-274.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-274.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 12:10:01 webserver CROND[7859]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 12:10:01 webserver systemd[1]: Starting Session 274 of user root.
+-- Subject: Unit session-274.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-274.scope has begun starting up.
+Dec 04 12:20:01 webserver systemd[1]: Started Session 275 of user root.
+-- Subject: Unit session-275.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-275.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 12:20:01 webserver CROND[8094]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 12:20:01 webserver systemd[1]: Starting Session 275 of user root.
+-- Subject: Unit session-275.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-275.scope has begun starting up.
+Dec 04 12:30:01 webserver systemd[1]: Started Session 276 of user root.
+-- Subject: Unit session-276.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-276.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 12:30:01 webserver CROND[8329]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 12:30:01 webserver systemd[1]: Starting Session 276 of user root.
+-- Subject: Unit session-276.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-276.scope has begun starting up.
+Dec 04 12:40:01 webserver systemd[1]: Started Session 277 of user root.
+-- Subject: Unit session-277.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-277.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 12:40:01 webserver systemd[1]: Starting Session 277 of user root.
+-- Subject: Unit session-277.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-277.scope has begun starting up.
+Dec 04 12:40:01 webserver CROND[8568]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 12:50:01 webserver systemd[1]: Started Session 278 of user root.
+-- Subject: Unit session-278.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-278.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 12:50:01 webserver CROND[8829]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 12:50:01 webserver systemd[1]: Starting Session 278 of user root.
+-- Subject: Unit session-278.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-278.scope has begun starting up.
+Dec 04 13:00:01 webserver systemd[1]: Started Session 279 of user root.
+-- Subject: Unit session-279.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-279.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 13:00:01 webserver CROND[9067]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 13:00:01 webserver systemd[1]: Starting Session 279 of user root.
+-- Subject: Unit session-279.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-279.scope has begun starting up.
+Dec 04 13:01:01 webserver systemd[1]: Started Session 280 of user root.
+-- Subject: Unit session-280.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-280.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 13:01:01 webserver CROND[9093]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 04 13:01:01 webserver systemd[1]: Starting Session 280 of user root.
+-- Subject: Unit session-280.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-280.scope has begun starting up.
+Dec 04 13:01:02 webserver run-parts(/etc/cron.hourly)[9096]: [1;39mstarting 0anacron[0m
+Dec 04 13:01:02 webserver anacron[9103]: [1;39mAnacron started on 2017-12-04[0m
+Dec 04 13:01:02 webserver anacron[9103]: [1;39mJob `cron.daily' locked by another anacron - skipping[0m
+Dec 04 13:01:02 webserver anacron[9103]: [1;39mNormal exit (0 jobs run)[0m
+Dec 04 13:01:02 webserver run-parts(/etc/cron.hourly)[9105]: [1;39mfinished 0anacron[0m
+Dec 04 13:01:02 webserver run-parts(/etc/cron.hourly)[9107]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 04 13:01:13 webserver run-parts(/etc/cron.hourly)[9168]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 04 13:01:13 webserver postfix/pickup[6875]: 85B6943CAB7C: uid=0 from=<root>
+Dec 04 13:01:13 webserver postfix/cleanup[9170]: 85B6943CAB7C: message-id=<20171204180113.85B6943CAB7C@webserver.localdomain>
+Dec 04 13:01:13 webserver postfix/qmgr[2166]: 85B6943CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 04 13:01:13 webserver postfix/local[9173]: 85B6943CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.12, delays=0.09/0.03/0/0, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 04 13:01:13 webserver postfix/qmgr[2166]: 85B6943CAB7C: removed
+Dec 04 13:10:01 webserver systemd[1]: Started Session 281 of user root.
+-- Subject: Unit session-281.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-281.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 13:10:01 webserver CROND[9385]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 13:10:01 webserver systemd[1]: Starting Session 281 of user root.
+-- Subject: Unit session-281.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-281.scope has begun starting up.
+Dec 04 15:42:49 webserver systemd[1]: Time has been changed
+-- Subject: Time change
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- The system clock has been changed to REALTIME microseconds after January 1st, 1970.
+Dec 04 15:42:51 webserver kernel: e1000: enp0s3 NIC Link is Down
+Dec 04 15:42:51 webserver kernel: [1;31me1000 0000:00:03.0 enp0s3: Reset adapter[0m
+Dec 04 15:42:53 webserver kernel: e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Dec 04 15:42:53 webserver kernel: IPv6: ADDRCONF(NETDEV_CHANGE): enp0s3: link becomes ready
+Dec 04 15:42:53 webserver NetworkManager[745]: <info>  [1512420173.5069] device (enp0s3): link connected
+Dec 04 15:43:49 webserver chronyd[752]: [1;39mForward time jump detected![0m
+Dec 04 15:43:49 webserver chronyd[752]: Can't synchronise: no selectable sources
+Dec 04 15:47:03 webserver chronyd[752]: Selected source 12.167.151.1
+Dec 04 15:48:08 webserver chronyd[752]: Source 204.11.201.10 replaced with 204.2.134.162
+Dec 04 15:50:01 webserver systemd[1]: Started Session 282 of user root.
+-- Subject: Unit session-282.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-282.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 15:50:01 webserver CROND[9644]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 15:50:01 webserver systemd[1]: Starting Session 282 of user root.
+-- Subject: Unit session-282.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-282.scope has begun starting up.
+Dec 04 15:51:23 webserver chronyd[752]: Selected source 45.79.111.114
+Dec 04 15:57:25 webserver slapd[733]: conn=1000 fd=11 ACCEPT from IP=[::1]:54784 (IP=[::]:389)
+Dec 04 15:57:25 webserver slapd[733]: conn=1000 op=0 BIND dn="" method=128
+Dec 04 15:57:25 webserver slapd[733]: conn=1000 op=0 RESULT tag=97 err=0 text=
+Dec 04 15:57:25 webserver slapd[733]: conn=1000 op=1 SRCH base="dc=sfgroups,dc=com" scope=2 deref=0 filter="(objectClass=*)"
+Dec 04 15:57:25 webserver slapd[733]: conn=1000 op=1 SEARCH RESULT tag=101 err=32 nentries=0 text=
+Dec 04 15:57:25 webserver slapd[733]: conn=1000 op=2 UNBIND
+Dec 04 15:57:25 webserver slapd[733]: conn=1000 fd=11 closed
+Dec 04 16:00:01 webserver systemd[1]: Started Session 283 of user root.
+-- Subject: Unit session-283.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-283.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 16:00:01 webserver CROND[9918]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 16:00:01 webserver systemd[1]: Starting Session 283 of user root.
+-- Subject: Unit session-283.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-283.scope has begun starting up.
+Dec 04 16:01:01 webserver systemd[1]: Started Session 284 of user root.
+-- Subject: Unit session-284.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-284.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 16:01:01 webserver CROND[9984]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 04 16:01:01 webserver systemd[1]: Starting Session 284 of user root.
+-- Subject: Unit session-284.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-284.scope has begun starting up.
+Dec 04 16:01:01 webserver run-parts(/etc/cron.hourly)[9987]: [1;39mstarting 0anacron[0m
+Dec 04 16:01:01 webserver anacron[9994]: [1;39mAnacron started on 2017-12-04[0m
+Dec 04 16:01:01 webserver anacron[9994]: [1;39mJob `cron.daily' locked by another anacron - skipping[0m
+Dec 04 16:01:01 webserver anacron[9994]: [1;39mNormal exit (0 jobs run)[0m
+Dec 04 16:01:01 webserver run-parts(/etc/cron.hourly)[9996]: [1;39mfinished 0anacron[0m
+Dec 04 16:01:01 webserver run-parts(/etc/cron.hourly)[9998]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 04 16:02:38 webserver python2[10115]: ansible-setup Invoked with filter=* gather_subset=['all'] fact_path=/etc/ansible/facts.d gather_timeout=10
+Dec 04 16:03:05 webserver python2[10251]: ansible-setup Invoked with filter=* gather_subset=['all'] fact_path=/etc/ansible/facts.d gather_timeout=10
+Dec 04 16:04:03 webserver python2[10395]: ansible-setup Invoked with filter=* gather_subset=['all'] fact_path=/etc/ansible/facts.d gather_timeout=10
+Dec 04 16:04:34 webserver python2[10526]: ansible-setup Invoked with filter=* gather_subset=['all'] fact_path=/etc/ansible/facts.d gather_timeout=10
+Dec 04 16:04:36 webserver python2[10634]: ansible-command Invoked with warn=True executable=None _uses_shell=True _raw_params=slappasswd -s "passme" removes=None creates=None chdir=None stdin=None
+Dec 04 16:04:37 webserver python2[10657]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//slapd.conf checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 04 16:04:38 webserver python2[10674]: ansible-copy Invoked with directory_mode=None force=True remote_src=None owner=None follow=False local_follow=None group=None unsafe_writes=None setype=None content=NOT_LOGGING_PARAMETER serole=None dest=/etc/openldap//slapd.conf selevel=None original_basename=slapd.conf.j2 regexp=None validate=None src=/root/.ansible/tmp/ansible-tmp-1512421476.9-112745571220734/source seuser=None delimiter=None mode=None attributes=None backup=False
+Dec 04 16:04:39 webserver python2[10696]: ansible-systemd Invoked with no_block=False name=slapd enabled=True daemon_reload=False state=restarted user=False masked=None
+Dec 04 16:04:39 webserver slapd[733]: daemon: shutdown requested and initiated.
+Dec 04 16:04:39 webserver systemd[1]: Stopping OpenLDAP Server Daemon...
+-- Subject: Unit slapd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has begun shutting down.
+Dec 04 16:04:39 webserver slapd[733]: slapd shutdown: waiting for 0 operations/tasks to finish
+Dec 04 16:04:39 webserver slapd[733]: DIGEST-MD5 common mech free
+Dec 04 16:04:39 webserver slapd[733]: slapd stopped.
+Dec 04 16:04:39 webserver systemd[1]: Starting OpenLDAP Server Daemon...
+-- Subject: Unit slapd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has begun starting up.
+Dec 04 16:04:39 webserver check-config.sh[10704]: Configuration directory '/etc/openldap/slapd.d' does not exist.
+Dec 04 16:04:39 webserver check-config.sh[10704]: Warning: Usage of a configuration file is obsolete!
+Dec 04 16:04:39 webserver runuser[10708]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 04 16:04:39 webserver runuser[10708]: pam_unix(runuser:session): session closed for user ldap
+Dec 04 16:04:39 webserver slapd[10718]: @(#) $OpenLDAP: slapd 2.4.44 (Aug  4 2017 14:23:27) $
+                                                mockbuild@c1bm.rdu2.centos.org:/builddir/build/BUILD/openldap-2.4.44/openldap-2.4.44/servers/slapd
+Dec 04 16:04:39 webserver slapd[10721]: bdb_db_open: warning - no DB_CONFIG file found in directory /var/lib/ldap/sfgroups.com/: (2).
+                                        Expect poor performance for suffix "dc=sfgroups,dc=com".
+Dec 04 16:04:39 webserver slapd[10721]: bdb_monitor_db_open: monitoring disabled; configure monitor database to enable
+Dec 04 16:04:39 webserver slapd[10721]: slapd starting
+Dec 04 16:04:39 webserver systemd[1]: Started OpenLDAP Server Daemon.
+-- Subject: Unit slapd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 16:10:01 webserver systemd[1]: Started Session 285 of user root.
+-- Subject: Unit session-285.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-285.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 16:10:01 webserver systemd[1]: Starting Session 285 of user root.
+-- Subject: Unit session-285.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-285.scope has begun starting up.
+Dec 04 16:10:01 webserver CROND[10941]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 16:12:07 webserver slaptest[10990]: DIGEST-MD5 common mech free
+Dec 04 16:13:16 webserver run-parts(/etc/cron.hourly)[11076]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 04 16:13:16 webserver postfix/pickup[9468]: 9CF7043CAB7C: uid=0 from=<root>
+Dec 04 16:13:16 webserver postfix/cleanup[11078]: 9CF7043CAB7C: message-id=<20171204211316.9CF7043CAB7C@webserver.localdomain>
+Dec 04 16:13:16 webserver postfix/qmgr[2166]: 9CF7043CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 04 16:13:16 webserver postfix/local[11082]: 9CF7043CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.12, delays=0.08/0.04/0/0, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 04 16:13:16 webserver postfix/qmgr[2166]: 9CF7043CAB7C: removed
+Dec 04 16:15:46 webserver slaptest[11226]: DIGEST-MD5 common mech free
+Dec 04 16:17:52 webserver run-parts(/etc/cron.daily)[11357]: [1;39mfinished 0yum-daily.cron[0m
+Dec 04 16:17:52 webserver run-parts(/etc/cron.daily)[11359]: [1;39mstarting google-chrome[0m
+Dec 04 16:17:52 webserver run-parts(/etc/cron.daily)[11400]: [1;39mfinished google-chrome[0m
+Dec 04 16:17:52 webserver run-parts(/etc/cron.daily)[11402]: [1;39mstarting logrotate[0m
+Dec 04 16:17:53 webserver run-parts(/etc/cron.daily)[11407]: [1;39mfinished logrotate[0m
+Dec 04 16:17:53 webserver run-parts(/etc/cron.daily)[11409]: [1;39mstarting man-db.cron[0m
+Dec 04 16:17:53 webserver run-parts(/etc/cron.daily)[11418]: [1;39mfinished man-db.cron[0m
+Dec 04 16:17:53 webserver run-parts(/etc/cron.daily)[11420]: [1;39mstarting mlocate[0m
+Dec 04 16:17:53 webserver run-parts(/etc/cron.daily)[11429]: [1;39mfinished mlocate[0m
+Dec 04 16:17:53 webserver anacron[2904]: [1;39mJob `cron.daily' terminated (produced output)[0m
+Dec 04 16:17:53 webserver anacron[2904]: [1;39mNormal exit (1 job run)[0m
+Dec 04 16:17:53 webserver postfix/pickup[9468]: E1A1343CAB7C: uid=0 from=<root>
+Dec 04 16:17:53 webserver postfix/cleanup[11432]: E1A1343CAB7C: message-id=<20171204211753.E1A1343CAB7C@webserver.localdomain>
+Dec 04 16:17:53 webserver postfix/qmgr[2166]: E1A1343CAB7C: from=<root@webserver.localdomain>, size=2196, nrcpt=1 (queue active)
+Dec 04 16:17:53 webserver postfix/local[11435]: E1A1343CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.11, delays=0.08/0.02/0/0, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 04 16:17:53 webserver postfix/qmgr[2166]: E1A1343CAB7C: removed
+Dec 04 16:20:01 webserver systemd[1]: Started Session 286 of user root.
+-- Subject: Unit session-286.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-286.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 16:20:01 webserver systemd[1]: Starting Session 286 of user root.
+-- Subject: Unit session-286.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-286.scope has begun starting up.
+Dec 04 16:20:01 webserver CROND[11498]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 16:20:50 webserver python2[11546]: ansible-setup Invoked with filter=* gather_subset=['all'] fact_path=/etc/ansible/facts.d gather_timeout=10
+Dec 04 16:20:52 webserver python2[11652]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/sysconfig/ldap checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 04 16:20:52 webserver python2[11668]: ansible-copy Invoked with directory_mode=None force=True remote_src=None owner=None follow=False local_follow=None group=None unsafe_writes=None setype=None content=NOT_LOGGING_PARAMETER serole=None dest=/etc/sysconfig/ldap selevel=None original_basename=DB_CONFIG regexp=None validate=None src=/root/.ansible/tmp/ansible-tmp-1512422451.67-20341726323951/source seuser=None delimiter=None mode=0755 attributes=None backup=False
+Dec 04 16:20:53 webserver python2[11690]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/sysconfig/ldap checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 04 16:20:54 webserver python2[11706]: ansible-copy Invoked with directory_mode=None force=True remote_src=None owner=None follow=False local_follow=None group=None unsafe_writes=None setype=None content=NOT_LOGGING_PARAMETER serole=None dest=/etc/sysconfig/ldap selevel=None original_basename=ldap regexp=None validate=None src=/root/.ansible/tmp/ansible-tmp-1512422453.16-51451807305933/source seuser=None delimiter=None mode=0755 attributes=None backup=False
+Dec 04 16:20:55 webserver python2[11728]: ansible-systemd Invoked with no_block=False name=slapd enabled=True daemon_reload=False state=restarted user=False masked=None
+Dec 04 16:20:55 webserver slapd[10721]: daemon: shutdown requested and initiated.
+Dec 04 16:20:55 webserver systemd[1]: Stopping OpenLDAP Server Daemon...
+-- Subject: Unit slapd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has begun shutting down.
+Dec 04 16:20:55 webserver slapd[10721]: slapd shutdown: waiting for 0 operations/tasks to finish
+Dec 04 16:20:55 webserver slapd[10721]: DIGEST-MD5 common mech free
+Dec 04 16:20:55 webserver slapd[10721]: slapd stopped.
+Dec 04 16:20:55 webserver systemd[1]: Starting OpenLDAP Server Daemon...
+-- Subject: Unit slapd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has begun starting up.
+Dec 04 16:20:55 webserver check-config.sh[11736]: Configuration directory '/etc/openldap/slapd.d' does not exist.
+Dec 04 16:20:55 webserver check-config.sh[11736]: Warning: Usage of a configuration file is obsolete!
+Dec 04 16:20:55 webserver runuser[11740]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 04 16:20:55 webserver runuser[11740]: pam_unix(runuser:session): session closed for user ldap
+Dec 04 16:20:55 webserver slapd[11750]: @(#) $OpenLDAP: slapd 2.4.44 (Aug  4 2017 14:23:27) $
+                                                mockbuild@c1bm.rdu2.centos.org:/builddir/build/BUILD/openldap-2.4.44/openldap-2.4.44/servers/slapd
+Dec 04 16:20:55 webserver slapd[11753]: bdb_db_open: warning - no DB_CONFIG file found in directory /var/lib/ldap/sfgroups.com/: (2).
+                                        Expect poor performance for suffix "dc=sfgroups,dc=com".
+Dec 04 16:20:55 webserver slapd[11753]: bdb_monitor_db_open: monitoring disabled; configure monitor database to enable
+Dec 04 16:20:55 webserver systemd[1]: Started OpenLDAP Server Daemon.
+-- Subject: Unit slapd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 16:20:55 webserver slapd[11753]: slapd starting
+Dec 04 16:21:04 webserver slaptest[11774]: DIGEST-MD5 common mech free
+Dec 04 16:21:55 webserver python2[11816]: ansible-setup Invoked with filter=* gather_subset=['all'] fact_path=/etc/ansible/facts.d gather_timeout=10
+Dec 04 16:21:57 webserver python2[11922]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/var/lib/ldap/sfgroups.com/DB_CONFIG checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 04 16:21:57 webserver python2[11936]: ansible-copy Invoked with directory_mode=None force=True remote_src=None owner=None follow=False local_follow=None group=None unsafe_writes=None setype=None content=NOT_LOGGING_PARAMETER serole=None dest=/var/lib/ldap/sfgroups.com/ selevel=None original_basename=DB_CONFIG regexp=None validate=None src=/root/.ansible/tmp/ansible-tmp-1512422516.58-213667687160985/source seuser=None delimiter=None mode=0755 attributes=None backup=False
+Dec 04 16:21:58 webserver python2[11958]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/sysconfig/ldap checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 04 16:21:59 webserver python2[11971]: ansible-file Invoked with directory_mode=None force=False remote_src=None path=/etc/sysconfig/ldap owner=None follow=False group=None unsafe_writes=None state=file content=NOT_LOGGING_PARAMETER serole=None diff_peek=None setype=None dest=/etc/sysconfig/ldap selevel=None original_basename=ldap regexp=None validate=None src=ldap seuser=None recurse=False delimiter=None mode=0755 attributes=None backup=None
+Dec 04 16:22:03 webserver slaptest[11994]: DIGEST-MD5 common mech free
+Dec 04 16:24:53 webserver python2[12137]: ansible-setup Invoked with filter=* gather_subset=['all'] fact_path=/etc/ansible/facts.d gather_timeout=10
+Dec 04 16:24:55 webserver python2[12243]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/var/lib/ldap/sfgroups.com/DB_CONFIG checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 04 16:24:56 webserver python2[12256]: ansible-file Invoked with directory_mode=None force=False remote_src=None path=/var/lib/ldap/sfgroups.com/ owner=ldap follow=False group=ldap unsafe_writes=None state=file content=NOT_LOGGING_PARAMETER serole=None diff_peek=None setype=None dest=/var/lib/ldap/sfgroups.com/ selevel=None original_basename=DB_CONFIG regexp=None validate=None src=DB_CONFIG seuser=None recurse=False delimiter=None mode=0755 attributes=None backup=None
+Dec 04 16:24:57 webserver python2[12278]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/sysconfig/ldap checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 04 16:24:57 webserver python2[12291]: ansible-file Invoked with directory_mode=None force=False remote_src=None path=/etc/sysconfig/ldap owner=None follow=False group=None unsafe_writes=None state=file content=NOT_LOGGING_PARAMETER serole=None diff_peek=None setype=None dest=/etc/sysconfig/ldap selevel=None original_basename=ldap regexp=None validate=None src=ldap seuser=None recurse=False delimiter=None mode=0755 attributes=None backup=None
+Dec 04 16:25:06 webserver slaptest[12314]: DIGEST-MD5 common mech free
+Dec 04 16:30:01 webserver systemd[1]: Started Session 287 of user root.
+-- Subject: Unit session-287.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-287.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 16:30:01 webserver CROND[12453]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 16:30:01 webserver systemd[1]: Starting Session 287 of user root.
+-- Subject: Unit session-287.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-287.scope has begun starting up.
+Dec 04 16:40:01 webserver systemd[1]: Started Session 288 of user root.
+-- Subject: Unit session-288.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-288.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 16:40:01 webserver systemd[1]: Starting Session 288 of user root.
+-- Subject: Unit session-288.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-288.scope has begun starting up.
+Dec 04 16:40:01 webserver CROND[12683]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 16:46:51 webserver firefox.desktop[4402]: 1512424011872        addons.update-checker        WARN        Update manifest for e10srollout@mozilla.org did not contain an updates property
+Dec 04 16:46:51 webserver firefox.desktop[4402]: 1512424011898        addons.update-checker        WARN        Update manifest for webcompat@mozilla.org did not contain an updates property
+Dec 04 16:46:51 webserver firefox.desktop[4402]: 1512424011917        addons.update-checker        WARN        Update manifest for firefox@getpocket.com did not contain an updates property
+Dec 04 16:46:51 webserver firefox.desktop[4402]: 1512424011928        addons.update-checker        WARN        Update manifest for aushelper@mozilla.org did not contain an updates property
+Dec 04 16:46:51 webserver firefox.desktop[4402]: 1512424011965        addons.update-checker        WARN        Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Dec 04 16:46:52 webserver firefox.desktop[4402]: 1512424012579        addons.webextension.{d0bfdcce-52c7-4b32-bb45-948f62db8d3f}        WARN        Please specify whether you want browser_style or not in your browser_action options.
+Dec 04 16:50:01 webserver systemd[1]: Started Session 289 of user root.
+-- Subject: Unit session-289.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-289.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 16:50:01 webserver systemd[1]: Starting Session 289 of user root.
+-- Subject: Unit session-289.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-289.scope has begun starting up.
+Dec 04 16:50:01 webserver CROND[12929]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 17:00:01 webserver systemd[1]: Started Session 290 of user root.
+-- Subject: Unit session-290.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-290.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 17:00:01 webserver systemd[1]: Starting Session 290 of user root.
+-- Subject: Unit session-290.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-290.scope has begun starting up.
+Dec 04 17:00:01 webserver CROND[13166]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 17:01:01 webserver systemd[1]: Started Session 291 of user root.
+-- Subject: Unit session-291.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-291.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 17:01:01 webserver systemd[1]: Starting Session 291 of user root.
+-- Subject: Unit session-291.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-291.scope has begun starting up.
+Dec 04 17:01:01 webserver CROND[13193]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 04 17:01:01 webserver run-parts(/etc/cron.hourly)[13196]: [1;39mstarting 0anacron[0m
+Dec 04 17:01:01 webserver run-parts(/etc/cron.hourly)[13202]: [1;39mfinished 0anacron[0m
+Dec 04 17:01:01 webserver run-parts(/etc/cron.hourly)[13204]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 04 17:09:38 webserver run-parts(/etc/cron.hourly)[13463]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 04 17:09:38 webserver postfix/pickup[9468]: A67CE43CAB7C: uid=0 from=<root>
+Dec 04 17:09:38 webserver postfix/cleanup[13465]: A67CE43CAB7C: message-id=<20171204220938.A67CE43CAB7C@webserver.localdomain>
+Dec 04 17:09:38 webserver postfix/qmgr[2166]: A67CE43CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 04 17:09:38 webserver postfix/local[13468]: A67CE43CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.19, delays=0.12/0.05/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 04 17:09:38 webserver postfix/qmgr[2166]: A67CE43CAB7C: removed
+Dec 04 17:10:01 webserver systemd[1]: Started Session 292 of user root.
+-- Subject: Unit session-292.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-292.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 17:10:01 webserver systemd[1]: Starting Session 292 of user root.
+-- Subject: Unit session-292.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-292.scope has begun starting up.
+Dec 04 17:10:01 webserver CROND[13474]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 17:20:01 webserver systemd[1]: Started Session 293 of user root.
+-- Subject: Unit session-293.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-293.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 17:20:01 webserver systemd[1]: Starting Session 293 of user root.
+-- Subject: Unit session-293.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-293.scope has begun starting up.
+Dec 04 17:20:01 webserver CROND[13714]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 17:30:01 webserver systemd[1]: Started Session 294 of user root.
+-- Subject: Unit session-294.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-294.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 17:30:01 webserver systemd[1]: Starting Session 294 of user root.
+-- Subject: Unit session-294.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-294.scope has begun starting up.
+Dec 04 17:30:01 webserver CROND[13949]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 17:40:01 webserver systemd[1]: Started Session 295 of user root.
+-- Subject: Unit session-295.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-295.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 17:40:01 webserver systemd[1]: Starting Session 295 of user root.
+-- Subject: Unit session-295.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-295.scope has begun starting up.
+Dec 04 17:40:01 webserver CROND[14187]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 17:50:01 webserver systemd[1]: Started Session 296 of user root.
+-- Subject: Unit session-296.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-296.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 17:50:01 webserver CROND[14433]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 17:50:01 webserver systemd[1]: Starting Session 296 of user root.
+-- Subject: Unit session-296.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-296.scope has begun starting up.
+Dec 04 18:00:01 webserver systemd[1]: Started Session 297 of user root.
+-- Subject: Unit session-297.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-297.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 18:00:01 webserver systemd[1]: Starting Session 297 of user root.
+-- Subject: Unit session-297.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-297.scope has begun starting up.
+Dec 04 18:00:01 webserver CROND[14679]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 18:01:01 webserver systemd[1]: Started Session 298 of user root.
+-- Subject: Unit session-298.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-298.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 18:01:01 webserver systemd[1]: Starting Session 298 of user root.
+-- Subject: Unit session-298.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-298.scope has begun starting up.
+Dec 04 18:01:01 webserver CROND[14707]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 04 18:01:01 webserver run-parts(/etc/cron.hourly)[14710]: [1;39mstarting 0anacron[0m
+Dec 04 18:01:01 webserver run-parts(/etc/cron.hourly)[14716]: [1;39mfinished 0anacron[0m
+Dec 04 18:01:01 webserver run-parts(/etc/cron.hourly)[14718]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 04 18:10:01 webserver systemd[1]: Started Session 299 of user root.
+-- Subject: Unit session-299.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-299.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 18:10:01 webserver systemd[1]: Starting Session 299 of user root.
+-- Subject: Unit session-299.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-299.scope has begun starting up.
+Dec 04 18:10:01 webserver CROND[14928]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 18:14:21 webserver run-parts(/etc/cron.hourly)[15094]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 04 18:14:21 webserver postfix/pickup[13712]: 9028743CAB7C: uid=0 from=<root>
+Dec 04 18:14:21 webserver postfix/cleanup[15096]: 9028743CAB7C: message-id=<20171204231421.9028743CAB7C@webserver.localdomain>
+Dec 04 18:14:21 webserver postfix/qmgr[2166]: 9028743CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 04 18:14:21 webserver postfix/local[15099]: 9028743CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.17, delays=0.11/0.04/0/0.02, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 04 18:14:21 webserver postfix/qmgr[2166]: 9028743CAB7C: removed
+Dec 04 18:20:01 webserver systemd[1]: Started Session 300 of user root.
+-- Subject: Unit session-300.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-300.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 18:20:01 webserver systemd[1]: Starting Session 300 of user root.
+-- Subject: Unit session-300.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-300.scope has begun starting up.
+Dec 04 18:20:01 webserver CROND[15226]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 18:30:01 webserver systemd[1]: Started Session 301 of user root.
+-- Subject: Unit session-301.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-301.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 18:30:01 webserver systemd[1]: Starting Session 301 of user root.
+-- Subject: Unit session-301.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-301.scope has begun starting up.
+Dec 04 18:30:01 webserver CROND[15461]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 18:40:01 webserver systemd[1]: Started Session 302 of user root.
+-- Subject: Unit session-302.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-302.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 18:40:01 webserver systemd[1]: Starting Session 302 of user root.
+-- Subject: Unit session-302.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-302.scope has begun starting up.
+Dec 04 18:40:01 webserver CROND[15708]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 18:50:01 webserver systemd[1]: Started Session 303 of user root.
+-- Subject: Unit session-303.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-303.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 18:50:01 webserver systemd[1]: Starting Session 303 of user root.
+-- Subject: Unit session-303.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-303.scope has begun starting up.
+Dec 04 18:50:01 webserver CROND[15945]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 19:00:01 webserver systemd[1]: Started Session 304 of user root.
+-- Subject: Unit session-304.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-304.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 19:00:01 webserver systemd[1]: Starting Session 304 of user root.
+-- Subject: Unit session-304.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-304.scope has begun starting up.
+Dec 04 19:00:01 webserver CROND[16180]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 19:01:01 webserver systemd[1]: Started Session 305 of user root.
+-- Subject: Unit session-305.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-305.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 19:01:01 webserver systemd[1]: Starting Session 305 of user root.
+-- Subject: Unit session-305.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-305.scope has begun starting up.
+Dec 04 19:01:01 webserver CROND[16208]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 04 19:01:01 webserver run-parts(/etc/cron.hourly)[16211]: [1;39mstarting 0anacron[0m
+Dec 04 19:01:01 webserver run-parts(/etc/cron.hourly)[16217]: [1;39mfinished 0anacron[0m
+Dec 04 19:01:01 webserver run-parts(/etc/cron.hourly)[16219]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 04 19:08:32 webserver run-parts(/etc/cron.hourly)[16457]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 04 19:08:32 webserver postfix/pickup[16156]: D3B5543CAB7C: uid=0 from=<root>
+Dec 04 19:08:32 webserver postfix/cleanup[16459]: D3B5543CAB7C: message-id=<20171205000832.D3B5543CAB7C@webserver.localdomain>
+Dec 04 19:08:32 webserver postfix/qmgr[2166]: D3B5543CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 04 19:08:33 webserver postfix/local[16462]: D3B5543CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.19, delays=0.12/0.05/0/0.02, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 04 19:08:33 webserver postfix/qmgr[2166]: D3B5543CAB7C: removed
+Dec 04 19:10:01 webserver systemd[1]: Started Session 306 of user root.
+-- Subject: Unit session-306.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-306.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 19:10:01 webserver systemd[1]: Starting Session 306 of user root.
+-- Subject: Unit session-306.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-306.scope has begun starting up.
+Dec 04 19:10:01 webserver CROND[16495]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 19:20:01 webserver systemd[1]: Started Session 307 of user root.
+-- Subject: Unit session-307.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-307.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 19:20:01 webserver systemd[1]: Starting Session 307 of user root.
+-- Subject: Unit session-307.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-307.scope has begun starting up.
+Dec 04 19:20:01 webserver CROND[16732]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 19:30:01 webserver systemd[1]: Started Session 308 of user root.
+-- Subject: Unit session-308.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-308.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 19:30:01 webserver systemd[1]: Starting Session 308 of user root.
+-- Subject: Unit session-308.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-308.scope has begun starting up.
+Dec 04 19:30:01 webserver CROND[16969]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 19:40:01 webserver systemd[1]: Started Session 309 of user root.
+-- Subject: Unit session-309.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-309.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 19:40:01 webserver systemd[1]: Starting Session 309 of user root.
+-- Subject: Unit session-309.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-309.scope has begun starting up.
+Dec 04 19:40:01 webserver CROND[17210]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 19:50:01 webserver systemd[1]: Started Session 310 of user root.
+-- Subject: Unit session-310.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-310.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 19:50:01 webserver systemd[1]: Starting Session 310 of user root.
+-- Subject: Unit session-310.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-310.scope has begun starting up.
+Dec 04 19:50:01 webserver CROND[17449]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 20:00:01 webserver systemd[1]: Started Session 311 of user root.
+-- Subject: Unit session-311.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-311.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 20:00:01 webserver systemd[1]: Starting Session 311 of user root.
+-- Subject: Unit session-311.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-311.scope has begun starting up.
+Dec 04 20:00:01 webserver CROND[17687]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 20:01:01 webserver systemd[1]: Started Session 312 of user root.
+-- Subject: Unit session-312.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-312.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 20:01:01 webserver systemd[1]: Starting Session 312 of user root.
+-- Subject: Unit session-312.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-312.scope has begun starting up.
+Dec 04 20:01:01 webserver CROND[17716]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 04 20:01:01 webserver run-parts(/etc/cron.hourly)[17719]: [1;39mstarting 0anacron[0m
+Dec 04 20:01:01 webserver run-parts(/etc/cron.hourly)[17725]: [1;39mfinished 0anacron[0m
+Dec 04 20:01:01 webserver run-parts(/etc/cron.hourly)[17727]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 04 20:09:56 webserver run-parts(/etc/cron.hourly)[17992]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 04 20:09:56 webserver postfix/pickup[16156]: 44BE243CAB7C: uid=0 from=<root>
+Dec 04 20:09:56 webserver postfix/cleanup[17994]: 44BE243CAB7C: message-id=<20171205010956.44BE243CAB7C@webserver.localdomain>
+Dec 04 20:09:56 webserver postfix/qmgr[2166]: 44BE243CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 04 20:09:56 webserver postfix/local[17997]: 44BE243CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.2, delays=0.13/0.06/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 04 20:09:56 webserver postfix/qmgr[2166]: 44BE243CAB7C: removed
+Dec 04 20:10:01 webserver systemd[1]: Started Session 313 of user root.
+-- Subject: Unit session-313.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-313.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 20:10:01 webserver systemd[1]: Starting Session 313 of user root.
+-- Subject: Unit session-313.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-313.scope has begun starting up.
+Dec 04 20:10:01 webserver CROND[17999]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 20:20:01 webserver systemd[1]: Started Session 314 of user root.
+-- Subject: Unit session-314.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-314.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 20:20:01 webserver systemd[1]: Starting Session 314 of user root.
+-- Subject: Unit session-314.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-314.scope has begun starting up.
+Dec 04 20:20:01 webserver CROND[18238]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 20:30:01 webserver systemd[1]: Started Session 315 of user root.
+-- Subject: Unit session-315.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-315.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 20:30:01 webserver systemd[1]: Starting Session 315 of user root.
+-- Subject: Unit session-315.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-315.scope has begun starting up.
+Dec 04 20:30:01 webserver CROND[18476]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 20:40:01 webserver systemd[1]: Started Session 316 of user root.
+-- Subject: Unit session-316.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-316.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 20:40:01 webserver systemd[1]: Starting Session 316 of user root.
+-- Subject: Unit session-316.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-316.scope has begun starting up.
+Dec 04 20:40:01 webserver CROND[18709]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 20:50:01 webserver systemd[1]: Started Session 317 of user root.
+-- Subject: Unit session-317.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-317.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 20:50:01 webserver CROND[18945]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 20:50:01 webserver systemd[1]: Starting Session 317 of user root.
+-- Subject: Unit session-317.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-317.scope has begun starting up.
+Dec 04 21:00:02 webserver systemd[1]: Started Session 318 of user root.
+-- Subject: Unit session-318.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-318.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 21:00:02 webserver systemd[1]: Starting Session 318 of user root.
+-- Subject: Unit session-318.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-318.scope has begun starting up.
+Dec 04 21:00:02 webserver CROND[19183]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 21:01:01 webserver systemd[1]: Started Session 319 of user root.
+-- Subject: Unit session-319.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-319.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 21:01:01 webserver systemd[1]: Starting Session 319 of user root.
+-- Subject: Unit session-319.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-319.scope has begun starting up.
+Dec 04 21:01:01 webserver CROND[19212]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 04 21:01:01 webserver run-parts(/etc/cron.hourly)[19215]: [1;39mstarting 0anacron[0m
+Dec 04 21:01:01 webserver run-parts(/etc/cron.hourly)[19221]: [1;39mfinished 0anacron[0m
+Dec 04 21:01:01 webserver run-parts(/etc/cron.hourly)[19223]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 04 21:10:01 webserver systemd[1]: Started Session 320 of user root.
+-- Subject: Unit session-320.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-320.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 21:10:01 webserver systemd[1]: Starting Session 320 of user root.
+-- Subject: Unit session-320.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-320.scope has begun starting up.
+Dec 04 21:10:01 webserver CROND[19433]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 21:14:07 webserver run-parts(/etc/cron.hourly)[19587]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 04 21:14:08 webserver postfix/pickup[18641]: 0F26343CAB7C: uid=0 from=<root>
+Dec 04 21:14:08 webserver postfix/cleanup[19589]: 0F26343CAB7C: message-id=<20171205021408.0F26343CAB7C@webserver.localdomain>
+Dec 04 21:14:08 webserver postfix/qmgr[2166]: 0F26343CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 04 21:14:08 webserver postfix/local[19592]: 0F26343CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.19, delays=0.12/0.06/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 04 21:14:08 webserver postfix/qmgr[2166]: 0F26343CAB7C: removed
+Dec 04 21:20:01 webserver systemd[1]: Started Session 321 of user root.
+-- Subject: Unit session-321.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-321.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 21:20:01 webserver systemd[1]: Starting Session 321 of user root.
+-- Subject: Unit session-321.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-321.scope has begun starting up.
+Dec 04 21:20:01 webserver CROND[19728]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 21:30:01 webserver systemd[1]: Started Session 322 of user root.
+-- Subject: Unit session-322.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-322.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 21:30:01 webserver systemd[1]: Starting Session 322 of user root.
+-- Subject: Unit session-322.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-322.scope has begun starting up.
+Dec 04 21:30:01 webserver CROND[19959]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 21:40:01 webserver systemd[1]: Started Session 323 of user root.
+-- Subject: Unit session-323.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-323.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 21:40:01 webserver systemd[1]: Starting Session 323 of user root.
+-- Subject: Unit session-323.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-323.scope has begun starting up.
+Dec 04 21:40:01 webserver CROND[20204]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 21:50:01 webserver systemd[1]: Started Session 324 of user root.
+-- Subject: Unit session-324.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-324.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 21:50:01 webserver systemd[1]: Starting Session 324 of user root.
+-- Subject: Unit session-324.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-324.scope has begun starting up.
+Dec 04 21:50:01 webserver CROND[20443]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 22:00:01 webserver systemd[1]: Started Session 325 of user root.
+-- Subject: Unit session-325.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-325.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 22:00:01 webserver systemd[1]: Starting Session 325 of user root.
+-- Subject: Unit session-325.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-325.scope has begun starting up.
+Dec 04 22:00:01 webserver CROND[20679]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 22:01:01 webserver systemd[1]: Started Session 326 of user root.
+-- Subject: Unit session-326.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-326.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 22:01:01 webserver systemd[1]: Starting Session 326 of user root.
+-- Subject: Unit session-326.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-326.scope has begun starting up.
+Dec 04 22:01:01 webserver CROND[20707]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 04 22:01:01 webserver run-parts(/etc/cron.hourly)[20710]: [1;39mstarting 0anacron[0m
+Dec 04 22:01:02 webserver run-parts(/etc/cron.hourly)[20716]: [1;39mfinished 0anacron[0m
+Dec 04 22:01:02 webserver run-parts(/etc/cron.hourly)[20718]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 04 22:07:00 webserver run-parts(/etc/cron.hourly)[20916]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 04 22:07:00 webserver postfix/pickup[18641]: 9EFF443CAB7C: uid=0 from=<root>
+Dec 04 22:07:00 webserver postfix/cleanup[20918]: 9EFF443CAB7C: message-id=<20171205030700.9EFF443CAB7C@webserver.localdomain>
+Dec 04 22:07:00 webserver postfix/qmgr[2166]: 9EFF443CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 04 22:07:00 webserver postfix/local[20921]: 9EFF443CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.26, delays=0.15/0.09/0/0.02, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 04 22:07:00 webserver postfix/qmgr[2166]: 9EFF443CAB7C: removed
+Dec 04 22:10:01 webserver systemd[1]: Started Session 327 of user root.
+-- Subject: Unit session-327.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-327.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 22:10:01 webserver systemd[1]: Starting Session 327 of user root.
+-- Subject: Unit session-327.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-327.scope has begun starting up.
+Dec 04 22:10:01 webserver CROND[20993]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 22:13:18 webserver polkitd[666]: [1;39mRegistered Authentication Agent for unix-process:21069:16485109 (system bus name :1.774 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)[0m
+Dec 04 22:13:18 webserver polkitd[666]: [1;39mUnregistered Authentication Agent for unix-process:21069:16485109 (system bus name :1.774, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)[0m
+Dec 04 22:13:28 webserver polkitd[666]: [1;39mRegistered Authentication Agent for unix-process:21078:16486186 (system bus name :1.775 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)[0m
+Dec 04 22:13:28 webserver systemd[1]: Reloading.
+Dec 04 22:13:29 webserver polkitd[666]: [1;39mUnregistered Authentication Agent for unix-process:21078:16486186 (system bus name :1.775, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)[0m
+Dec 04 22:20:01 webserver systemd[1]: Started Session 328 of user root.
+-- Subject: Unit session-328.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-328.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 22:20:01 webserver systemd[1]: Starting Session 328 of user root.
+-- Subject: Unit session-328.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-328.scope has begun starting up.
+Dec 04 22:20:01 webserver CROND[21259]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 22:28:48 webserver slaptest[21524]: DIGEST-MD5 common mech free
+Dec 04 22:29:51 webserver polkitd[666]: [1;39mRegistered Authentication Agent for unix-process:21589:16584439 (system bus name :1.778 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)[0m
+Dec 04 22:29:51 webserver slapd[11753]: daemon: shutdown requested and initiated.
+Dec 04 22:29:51 webserver systemd[1]: Stopping OpenLDAP Server Daemon...
+-- Subject: Unit slapd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has begun shutting down.
+Dec 04 22:29:51 webserver slapd[11753]: slapd shutdown: waiting for 0 operations/tasks to finish
+Dec 04 22:29:51 webserver slapd[11753]: DIGEST-MD5 common mech free
+Dec 04 22:29:51 webserver slapd[11753]: slapd stopped.
+Dec 04 22:29:51 webserver systemd[1]: Stopped OpenLDAP Server Daemon.
+-- Subject: Unit slapd.service has finished shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has finished shutting down.
+Dec 04 22:29:51 webserver polkitd[666]: [1;39mUnregistered Authentication Agent for unix-process:21589:16584439 (system bus name :1.778, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)[0m
+Dec 04 22:30:01 webserver systemd[1]: Started Session 329 of user root.
+-- Subject: Unit session-329.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-329.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 22:30:01 webserver systemd[1]: Starting Session 329 of user root.
+-- Subject: Unit session-329.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-329.scope has begun starting up.
+Dec 04 22:30:01 webserver CROND[21603]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 04 22:34:58 webserver polkitd[666]: [1;39mRegistered Authentication Agent for unix-process:21841:16615162 (system bus name :1.781 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)[0m
+Dec 04 22:34:58 webserver systemd[1]: Starting OpenLDAP Server Daemon...
+-- Subject: Unit slapd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has begun starting up.
+Dec 04 22:34:58 webserver runuser[21850]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 04 22:34:58 webserver slaptest[21851]: could not stat config file "/etc/openldap/slapd.conf": No such file or directory (2)
+Dec 04 22:34:58 webserver runuser[21850]: pam_unix(runuser:session): session closed for user ldap
+Dec 04 22:34:58 webserver check-config.sh[21847]: Checking configuration file failed:
+Dec 04 22:34:58 webserver check-config.sh[21847]: 5a2613e2 could not stat config file "/etc/openldap/slapd.conf": No such file or directory (2)
+Dec 04 22:34:58 webserver check-config.sh[21847]: slaptest: bad configuration file!
+Dec 04 22:34:58 webserver slapcat[21855]: could not stat config file "/etc/openldap/slapd.conf": No such file or directory (2)
+Dec 04 22:34:58 webserver slapd[21861]: @(#) $OpenLDAP: slapd 2.4.44 (Aug  4 2017 14:23:27) $
+                                                mockbuild@c1bm.rdu2.centos.org:/builddir/build/BUILD/openldap-2.4.44/openldap-2.4.44/servers/slapd
+Dec 04 22:34:58 webserver slapd[21861]: could not stat config file "/etc/openldap/slapd.conf": No such file or directory (2)
+Dec 04 22:34:58 webserver slapd[21861]: slapd destroy: freeing system resources.
+Dec 04 22:34:58 webserver slapd[21861]: DIGEST-MD5 common mech free
+Dec 04 22:34:58 webserver slapd[21861]: slapd stopped.
+Dec 04 22:34:59 webserver systemd[1]: [1;39mslapd.service: control process exited, code=exited status=1[0m
+Dec 04 22:34:58 webserver slapd[21861]: connections_destroy: nothing to destroy.
+Dec 04 22:34:59 webserver systemd[1]: [1;31mFailed to start OpenLDAP Server Daemon.[0m
+-- Subject: Unit slapd.service has failed
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has failed.
+-- 
+-- The result is failed.
+Dec 04 22:34:59 webserver systemd[1]: [1;39mUnit slapd.service entered failed state.[0m
+Dec 04 22:34:59 webserver systemd[1]: [1;39mslapd.service failed.[0m
+Dec 04 22:34:59 webserver polkitd[666]: [1;39mUnregistered Authentication Agent for unix-process:21841:16615162 (system bus name :1.781, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)[0m
+Dec 04 22:36:00 webserver polkitd[666]: [1;39mRegistered Authentication Agent for unix-process:21905:16621356 (system bus name :1.782 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)[0m
+Dec 04 22:36:00 webserver systemd[1]: Starting OpenLDAP Server Daemon...
+-- Subject: Unit slapd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has begun starting up.
+Dec 04 22:36:00 webserver runuser[21914]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 04 22:36:00 webserver runuser[21914]: pam_unix(runuser:session): session closed for user ldap
+Dec 04 22:36:00 webserver slapcat[21918]: DIGEST-MD5 common mech free
+Dec 04 22:36:00 webserver slapd[21924]: @(#) $OpenLDAP: slapd 2.4.44 (Aug  4 2017 14:23:27) $
+                                                mockbuild@c1bm.rdu2.centos.org:/builddir/build/BUILD/openldap-2.4.44/openldap-2.4.44/servers/slapd
+Dec 04 22:36:00 webserver slapd[21927]: bdb_monitor_db_open: monitoring disabled; configure monitor database to enable
+Dec 04 22:36:00 webserver slapd[21927]: slapd starting
+Dec 04 22:36:00 webserver systemd[1]: Started OpenLDAP Server Daemon.
+-- Subject: Unit slapd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 04 22:36:00 webserver polkitd[666]: [1;39mUnregistered Authentication Agent for unix-process:21905:16621356 (system bus name :1.782, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)[0m
+Dec 04 22:36:18 webserver slapd[21927]: conn=1000 fd=11 ACCEPT from PATH=/var/run/ldapi (PATH=/var/run/ldapi)
+Dec 04 22:36:18 webserver slapd[21927]: conn=1000 op=0 BIND dn="" method=163
+Dec 04 22:36:18 webserver slapd[21927]: conn=1000 op=0 BIND authcid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" authzid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth"
+Dec 04 22:36:18 webserver slapd[21927]: conn=1000 op=0 BIND dn="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" mech=EXTERNAL sasl_ssf=0 ssf=71
+Dec 04 22:36:18 webserver slapd[21927]: conn=1000 op=0 RESULT tag=97 err=0 text=
+Dec 04 22:36:18 webserver ldapmodify[21936]: DIGEST-MD5 common mech free
+Dec 04 22:36:18 webserver slapd[21927]: conn=1000 op=1 UNBIND
+Dec 04 22:36:18 webserver slapd[21927]: conn=1000 fd=11 closed
+Dec 04 22:36:38 webserver kernel: e1000: enp0s3 NIC Link is Down
+Dec 04 22:36:40 webserver kernel: e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Dec 04 22:36:40 webserver NetworkManager[745]: <info>  [1512445000.3388] device (enp0s3): link connected
+Dec 05 08:19:58 webserver systemd[1]: Time has been changed
+-- Subject: Time change
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- The system clock has been changed to REALTIME microseconds after January 1st, 1970.
+Dec 05 08:20:17 webserver systemd[1]: Started Session 330 of user root.
+-- Subject: Unit session-330.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-330.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 08:20:17 webserver systemd[1]: Starting Session 330 of user root.
+-- Subject: Unit session-330.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-330.scope has begun starting up.
+Dec 05 08:20:17 webserver CROND[21963]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 08:20:25 webserver sshd[21968]: Accepted publickey for root from 192.168.16.6 port 57374 ssh2: RSA SHA256:p+V0mE+t9R5lI2OA4p6WUfSq79fPX8DUz88nzdJMPbQ
+Dec 05 08:20:25 webserver systemd[1]: Started Session 331 of user root.
+-- Subject: Unit session-331.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-331.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 08:20:25 webserver systemd-logind[730]: New session 331 of user root.
+-- Subject: A new session 331 has been created for user root
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- Documentation: http://www.freedesktop.org/wiki/Software/systemd/multiseat
+-- 
+-- A new session with the ID 331 has been created for the user root.
+-- 
+-- The leading process of the session is 21968.
+Dec 05 08:20:25 webserver systemd[1]: Starting Session 331 of user root.
+-- Subject: Unit session-331.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-331.scope has begun starting up.
+Dec 05 08:20:25 webserver sshd[21968]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Dec 05 08:20:25 webserver dbus[718]: [1;39m[system] Activating service name='org.freedesktop.problems' (using servicehelper)[0m
+Dec 05 08:20:25 webserver dbus-daemon[718]: dbus[718]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Dec 05 08:20:25 webserver dbus[718]: [1;39m[system] Successfully activated service 'org.freedesktop.problems'[0m
+Dec 05 08:20:25 webserver dbus-daemon[718]: dbus[718]: [system] Successfully activated service 'org.freedesktop.problems'
+Dec 05 08:21:48 webserver chronyd[752]: [1;39mForward time jump detected![0m
+Dec 05 08:21:48 webserver chronyd[752]: Can't synchronise: no selectable sources
+Dec 05 08:25:02 webserver chronyd[752]: Selected source 45.79.111.114
+Dec 05 08:25:02 webserver chronyd[752]: [1;39mSystem clock wrong by 1.591721 seconds, adjustment started[0m
+Dec 05 08:26:07 webserver chronyd[752]: Source 204.2.134.162 replaced with 45.79.109.111
+Dec 05 08:30:01 webserver systemd[1]: Started Session 332 of user root.
+-- Subject: Unit session-332.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-332.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 08:30:01 webserver systemd[1]: Starting Session 332 of user root.
+-- Subject: Unit session-332.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-332.scope has begun starting up.
+Dec 05 08:30:02 webserver CROND[22487]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 08:36:01 webserver sshd[5817]: pam_unix(sshd:session): session closed for user root
+Dec 05 08:36:01 webserver systemd-logind[730]: Removed session 162.
+-- Subject: Session 162 has been terminated
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- Documentation: http://www.freedesktop.org/wiki/Software/systemd/multiseat
+-- 
+-- A session with the ID 162 has been terminated.
+Dec 05 08:40:01 webserver systemd[1]: Started Session 333 of user root.
+-- Subject: Unit session-333.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-333.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 08:40:01 webserver systemd[1]: Starting Session 333 of user root.
+-- Subject: Unit session-333.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-333.scope has begun starting up.
+Dec 05 08:40:01 webserver CROND[22795]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 08:40:26 webserver kernel: e1000: enp0s3 NIC Link is Down
+Dec 05 16:25:33 webserver systemd[1]: Time has been changed
+-- Subject: Time change
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- The system clock has been changed to REALTIME microseconds after January 1st, 1970.
+Dec 05 16:25:35 webserver kernel: e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Dec 05 16:25:35 webserver NetworkManager[745]: <info>  [1512509135.1653] device (enp0s3): link connected
+Dec 05 16:26:20 webserver chronyd[752]: [1;39mForward time jump detected![0m
+Dec 05 16:26:20 webserver chronyd[752]: Can't synchronise: no selectable sources
+Dec 05 16:28:29 webserver chronyd[752]: Selected source 45.79.109.111
+Dec 05 16:28:29 webserver chronyd[752]: [1;39mSystem clock wrong by 1.762924 seconds, adjustment started[0m
+Dec 05 16:29:35 webserver chronyd[752]: Source 108.59.2.24 replaced with 162.210.111.4
+Dec 05 16:30:01 webserver systemd[1]: Started Session 334 of user root.
+-- Subject: Unit session-334.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-334.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 16:30:01 webserver systemd[1]: Starting Session 334 of user root.
+-- Subject: Unit session-334.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-334.scope has begun starting up.
+Dec 05 16:30:01 webserver CROND[22919]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 16:40:01 webserver systemd[1]: Started Session 335 of user root.
+-- Subject: Unit session-335.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-335.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 16:40:01 webserver systemd[1]: Starting Session 335 of user root.
+-- Subject: Unit session-335.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-335.scope has begun starting up.
+Dec 05 16:40:01 webserver CROND[23159]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 16:41:47 webserver sshd[21968]: pam_unix(sshd:session): session closed for user root
+Dec 05 16:41:47 webserver systemd-logind[730]: Removed session 331.
+-- Subject: Session 331 has been terminated
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- Documentation: http://www.freedesktop.org/wiki/Software/systemd/multiseat
+-- 
+-- A session with the ID 331 has been terminated.
+Dec 05 16:50:01 webserver systemd[1]: Started Session 336 of user root.
+-- Subject: Unit session-336.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-336.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 16:50:01 webserver systemd[1]: Starting Session 336 of user root.
+-- Subject: Unit session-336.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-336.scope has begun starting up.
+Dec 05 16:50:01 webserver CROND[23298]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 16:52:18 webserver sshd[23325]: Accepted publickey for root from 192.168.16.6 port 62113 ssh2: RSA SHA256:p+V0mE+t9R5lI2OA4p6WUfSq79fPX8DUz88nzdJMPbQ
+Dec 05 16:52:18 webserver systemd[1]: Started Session 337 of user root.
+-- Subject: Unit session-337.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-337.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 16:52:18 webserver systemd-logind[730]: New session 337 of user root.
+-- Subject: A new session 337 has been created for user root
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- Documentation: http://www.freedesktop.org/wiki/Software/systemd/multiseat
+-- 
+-- A new session with the ID 337 has been created for the user root.
+-- 
+-- The leading process of the session is 23325.
+Dec 05 16:52:18 webserver sshd[23325]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Dec 05 16:52:18 webserver systemd[1]: Starting Session 337 of user root.
+-- Subject: Unit session-337.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-337.scope has begun starting up.
+Dec 05 16:52:19 webserver dbus[718]: [1;39m[system] Activating service name='org.freedesktop.problems' (using servicehelper)[0m
+Dec 05 16:52:19 webserver dbus-daemon[718]: dbus[718]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Dec 05 16:52:19 webserver dbus[718]: [1;39m[system] Successfully activated service 'org.freedesktop.problems'[0m
+Dec 05 16:52:19 webserver dbus-daemon[718]: dbus[718]: [system] Successfully activated service 'org.freedesktop.problems'
+Dec 05 16:57:19 webserver python2[23773]: ansible-setup Invoked with filter=* gather_subset=['all'] fact_path=/etc/ansible/facts.d gather_timeout=10
+Dec 05 16:57:23 webserver python2[23885]: ansible-yum Invoked with allow_downgrade=False name=['openldap', 'openldap-servers', 'openldap-clients', 'libselinux-python', 'openssl'] list=None install_repoquery=True conf_file=None disable_gpg_check=False state=installed disablerepo=None update_cache=False enablerepo=None exclude=None security=False validate_certs=True installroot=/ skip_broken=False
+Dec 05 16:57:25 webserver python2[23907]: ansible-systemd Invoked with no_block=False name=slapd enabled=True daemon_reload=False state=started user=False masked=None
+Dec 05 16:57:27 webserver python2[23932]: ansible-file Invoked with directory_mode=None force=False remote_src=None path=/etc/openldap//slapd.d owner=ldap follow=False group=ldap unsafe_writes=None state=directory content=NOT_LOGGING_PARAMETER serole=None diff_peek=None setype=None selevel=None original_basename=None regexp=None validate=None src=None seuser=None recurse=False delimiter=None mode=0750 attributes=None backup=None
+Dec 05 16:57:28 webserver python2[23955]: ansible-command Invoked with warn=True executable=None _uses_shell=True _raw_params=slappasswd -s "password" removes=None creates=None chdir=None stdin=None
+Dec 05 16:57:30 webserver python2[23978]: ansible-file Invoked with directory_mode=None force=False remote_src=None path=/etc/openldap//files owner=ldap follow=False group=ldap unsafe_writes=None state=directory content=NOT_LOGGING_PARAMETER serole=None diff_peek=None setype=None selevel=None original_basename=None regexp=None validate=None src=None seuser=None recurse=False delimiter=None mode=0755 attributes=None backup=None
+Dec 05 16:57:32 webserver python2[24001]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 16:57:32 webserver python2[24014]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files/base-ldif.j2 checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 16:57:33 webserver python2[24028]: ansible-copy Invoked with directory_mode=None force=True remote_src=None owner=ldap follow=False local_follow=None group=ldap unsafe_writes=None setype=None content=NOT_LOGGING_PARAMETER serole=None dest=/etc/openldap//files selevel=None original_basename=base-ldif.j2 regexp=None validate=None src=/root/.ansible/tmp/ansible-tmp-1512511050.81-197071230514866/source seuser=None delimiter=None mode=493 attributes=None backup=False
+Dec 05 16:57:34 webserver python2[24049]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 16:57:35 webserver python2[24063]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files/certs-ldif.j2 checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 16:57:36 webserver python2[24080]: ansible-copy Invoked with directory_mode=None force=True remote_src=None owner=ldap follow=False local_follow=None group=ldap unsafe_writes=None setype=None content=NOT_LOGGING_PARAMETER serole=None dest=/etc/openldap//files selevel=None original_basename=certs-ldif.j2 regexp=None validate=None src=/root/.ansible/tmp/ansible-tmp-1512511054.08-12197748363579/source seuser=None delimiter=None mode=493 attributes=None backup=False
+Dec 05 16:57:37 webserver python2[24100]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 16:57:38 webserver python2[24116]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files/db-ldif.j2 checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 16:57:39 webserver python2[24130]: ansible-copy Invoked with directory_mode=None force=True remote_src=None owner=ldap follow=False local_follow=None group=ldap unsafe_writes=None setype=None content=NOT_LOGGING_PARAMETER serole=None dest=/etc/openldap//files selevel=None original_basename=db-ldif.j2 regexp=None validate=None src=/root/.ansible/tmp/ansible-tmp-1512511056.77-232367638651450/source seuser=None delimiter=None mode=493 attributes=None backup=False
+Dec 05 16:57:40 webserver python2[24151]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 16:57:41 webserver python2[24164]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files/domain.ldif checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 16:57:42 webserver python2[24178]: ansible-copy Invoked with directory_mode=None force=True remote_src=None owner=ldap follow=False local_follow=None group=ldap unsafe_writes=None setype=None content=NOT_LOGGING_PARAMETER serole=None dest=/etc/openldap//files selevel=None original_basename=domain.ldif regexp=None validate=None src=/root/.ansible/tmp/ansible-tmp-1512511059.56-231508915290024/source seuser=None delimiter=None mode=493 attributes=None backup=False
+Dec 05 16:57:43 webserver python2[24198]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 16:57:44 webserver python2[24211]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files/monitor-ldif.j2 checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 16:57:45 webserver python2[24225]: ansible-copy Invoked with directory_mode=None force=True remote_src=None owner=ldap follow=False local_follow=None group=ldap unsafe_writes=None setype=None content=NOT_LOGGING_PARAMETER serole=None dest=/etc/openldap//files selevel=None original_basename=monitor-ldif.j2 regexp=None validate=None src=/root/.ansible/tmp/ansible-tmp-1512511062.36-193048193343070/source seuser=None delimiter=None mode=493 attributes=None backup=False
+Dec 05 16:57:46 webserver python2[24245]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 16:57:46 webserver python2[24259]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files/user-ldif.j2 checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 16:57:47 webserver python2[24273]: ansible-copy Invoked with directory_mode=None force=True remote_src=None owner=ldap follow=False local_follow=None group=ldap unsafe_writes=None setype=None content=NOT_LOGGING_PARAMETER serole=None dest=/etc/openldap//files selevel=None original_basename=user-ldif.j2 regexp=None validate=None src=/root/.ansible/tmp/ansible-tmp-1512511065.31-187959307519872/source seuser=None delimiter=None mode=493 attributes=None backup=False
+Dec 05 16:57:49 webserver python2[24294]: ansible-command Invoked with warn=True executable=None _uses_shell=True _raw_params=ldapmodify -Y EXTERNAL -H ldapi:/// -f /etc/openldap//files/db-ldif.j2 removes=None creates=None chdir=None stdin=None
+Dec 05 16:57:49 webserver slapd[21927]: conn=1001 fd=11 ACCEPT from PATH=/var/run/ldapi (PATH=/var/run/ldapi)
+Dec 05 16:57:49 webserver slapd[21927]: conn=1001 op=0 BIND dn="" method=163
+Dec 05 16:57:49 webserver slapd[21927]: conn=1001 op=0 BIND authcid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" authzid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth"
+Dec 05 16:57:49 webserver slapd[21927]: conn=1001 op=0 BIND dn="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" mech=EXTERNAL sasl_ssf=0 ssf=71
+Dec 05 16:57:49 webserver slapd[21927]: conn=1001 op=0 RESULT tag=97 err=0 text=
+Dec 05 16:57:49 webserver slapd[21927]: conn=1001 op=1 MOD dn="olcDatabase={2}hdb,cn=config"
+Dec 05 16:57:49 webserver slapd[21927]: conn=1001 op=1 MOD attr=olcSuffix
+Dec 05 16:57:49 webserver slapd[21927]: conn=1001 op=1 RESULT tag=103 err=32 text=
+Dec 05 16:57:49 webserver ldapmodify[24300]: DIGEST-MD5 common mech free
+Dec 05 16:57:49 webserver slapd[21927]: conn=1001 op=2 UNBIND
+Dec 05 16:57:49 webserver slapd[21927]: conn=1001 fd=11 closed
+Dec 05 16:58:00 webserver PackageKit[2798]: get-updates transaction /1158_dbaaaddd from uid 0 finished with success after 121568ms
+Dec 05 16:58:00 webserver PackageKit[2798]: new update-packages transaction /1159_bebadbab scheduled from uid 0
+Dec 05 16:58:05 webserver PackageKit[2798]: update-packages transaction /1159_bebadbab from uid 0 finished with success after 4878ms
+Dec 05 16:58:49 webserver chronyd[752]: Selected source 45.79.111.114
+Dec 05 16:59:02 webserver polkitd[666]: [1;39mRegistered Authentication Agent for unix-process:24411:16949391 (system bus name :1.804 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)[0m
+Dec 05 16:59:02 webserver slapd[21927]: daemon: shutdown requested and initiated.
+Dec 05 16:59:02 webserver systemd[1]: Stopping OpenLDAP Server Daemon...
+-- Subject: Unit slapd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has begun shutting down.
+Dec 05 16:59:02 webserver slapd[21927]: slapd shutdown: waiting for 0 operations/tasks to finish
+Dec 05 16:59:02 webserver slapd[21927]: DIGEST-MD5 common mech free
+Dec 05 16:59:02 webserver slapd[21927]: slapd stopped.
+Dec 05 16:59:02 webserver systemd[1]: Stopped OpenLDAP Server Daemon.
+-- Subject: Unit slapd.service has finished shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has finished shutting down.
+Dec 05 16:59:02 webserver polkitd[666]: [1;39mUnregistered Authentication Agent for unix-process:24411:16949391 (system bus name :1.804, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)[0m
+Dec 05 17:00:01 webserver systemd[1]: Started Session 338 of user root.
+-- Subject: Unit session-338.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-338.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 17:00:01 webserver systemd[1]: Starting Session 338 of user root.
+-- Subject: Unit session-338.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-338.scope has begun starting up.
+Dec 05 17:00:01 webserver CROND[24477]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 17:00:22 webserver PackageKit[2798]: get-updates transaction /1160_dacaaade from uid 0 finished with success after 132926ms
+Dec 05 17:01:01 webserver systemd[1]: Started Session 339 of user root.
+-- Subject: Unit session-339.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-339.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 17:01:01 webserver systemd[1]: Starting Session 339 of user root.
+-- Subject: Unit session-339.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-339.scope has begun starting up.
+Dec 05 17:01:01 webserver CROND[24522]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 05 17:01:02 webserver run-parts(/etc/cron.hourly)[24525]: [1;39mstarting 0anacron[0m
+Dec 05 17:01:02 webserver anacron[24532]: [1;39mAnacron started on 2017-12-05[0m
+Dec 05 17:01:02 webserver anacron[24532]: [1;39mWill run job `cron.daily' in 45 min.[0m
+Dec 05 17:01:02 webserver anacron[24532]: [1;39mWill run job `cron.weekly' in 65 min.[0m
+Dec 05 17:01:02 webserver anacron[24532]: [1;39mJobs will be executed sequentially[0m
+Dec 05 17:01:02 webserver run-parts(/etc/cron.hourly)[24534]: [1;39mfinished 0anacron[0m
+Dec 05 17:01:02 webserver run-parts(/etc/cron.hourly)[24536]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 05 17:02:19 webserver PackageKit[2798]: get-updates transaction /1161_adbdbcdd from uid 0 finished with success after 117133ms
+Dec 05 17:03:25 webserver yum[24601]: Erased: openldap-servers-2.4.44-5.el7.x86_64
+Dec 05 17:03:26 webserver systemd[1]: Reloading.
+Dec 05 17:03:41 webserver python2[24694]: ansible-setup Invoked with filter=* gather_subset=['all'] fact_path=/etc/ansible/facts.d gather_timeout=10
+Dec 05 17:03:45 webserver python2[24803]: ansible-yum Invoked with allow_downgrade=False name=['openldap', 'openldap-servers', 'openldap-clients', 'libselinux-python', 'openssl'] list=None install_repoquery=True conf_file=None disable_gpg_check=False state=installed disablerepo=None update_cache=False enablerepo=None exclude=None security=False validate_certs=True installroot=/ skip_broken=False
+Dec 05 17:04:03 webserver systemd[1]: Reloading.
+Dec 05 17:04:03 webserver runuser[24903]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 05 17:04:03 webserver slapadd[24904]: DIGEST-MD5 common mech free
+Dec 05 17:04:03 webserver runuser[24903]: pam_unix(runuser:session): session closed for user ldap
+Dec 05 17:04:04 webserver yum[24834]: Installed: openldap-servers-2.4.44-5.el7.x86_64
+Dec 05 17:04:07 webserver python2[24934]: ansible-systemd Invoked with no_block=False name=slapd enabled=True daemon_reload=False state=started user=False masked=None
+Dec 05 17:04:07 webserver systemd[1]: Reloading.
+Dec 05 17:04:07 webserver systemd[1]: Starting OpenLDAP Server Daemon...
+-- Subject: Unit slapd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has begun starting up.
+Dec 05 17:04:07 webserver runuser[24963]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 05 17:04:07 webserver runuser[24963]: pam_unix(runuser:session): session closed for user ldap
+Dec 05 17:04:07 webserver slapcat[24967]: DIGEST-MD5 common mech free
+Dec 05 17:04:07 webserver slapd[24974]: @(#) $OpenLDAP: slapd 2.4.44 (Aug  4 2017 14:23:27) $
+                                                mockbuild@c1bm.rdu2.centos.org:/builddir/build/BUILD/openldap-2.4.44/openldap-2.4.44/servers/slapd
+Dec 05 17:04:07 webserver slapd[24977]: hdb_db_open: warning - no DB_CONFIG file found in directory /var/lib/ldap: (2).
+                                        Expect poor performance for suffix "dc=my-domain,dc=com".
+Dec 05 17:04:07 webserver slapd[24977]: slapd starting
+Dec 05 17:04:07 webserver systemd[1]: Started OpenLDAP Server Daemon.
+-- Subject: Unit slapd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 17:04:09 webserver python2[24996]: ansible-file Invoked with directory_mode=None force=False remote_src=None path=/etc/openldap//slapd.d owner=ldap follow=False group=ldap unsafe_writes=None state=directory content=NOT_LOGGING_PARAMETER serole=None diff_peek=None setype=None selevel=None original_basename=None regexp=None validate=None src=None seuser=None recurse=False delimiter=None mode=0750 attributes=None backup=None
+Dec 05 17:04:10 webserver python2[25018]: ansible-command Invoked with warn=True executable=None _uses_shell=True _raw_params=slappasswd -s "password" removes=None creates=None chdir=None stdin=None
+Dec 05 17:04:12 webserver python2[25041]: ansible-file Invoked with directory_mode=None force=False remote_src=None path=/etc/openldap//files owner=ldap follow=False group=ldap unsafe_writes=None state=directory content=NOT_LOGGING_PARAMETER serole=None diff_peek=None setype=None selevel=None original_basename=None regexp=None validate=None src=None seuser=None recurse=False delimiter=None mode=0755 attributes=None backup=None
+Dec 05 17:04:13 webserver python2[25063]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 17:04:14 webserver python2[25076]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files/base-ldif.j2 checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 17:04:15 webserver python2[25089]: ansible-file Invoked with directory_mode=None force=False remote_src=None path=/etc/openldap//files owner=ldap follow=False group=ldap unsafe_writes=None serole=None content=NOT_LOGGING_PARAMETER state=file diff_peek=None setype=None dest=/etc/openldap//files selevel=None original_basename=base-ldif.j2 regexp=None validate=None src=base-ldif.j2 seuser=None recurse=False delimiter=None mode=493 attributes=None backup=None
+Dec 05 17:04:16 webserver python2[25110]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 17:04:16 webserver python2[25123]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files/certs-ldif.j2 checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 17:04:17 webserver python2[25136]: ansible-file Invoked with directory_mode=None force=False remote_src=None path=/etc/openldap//files owner=ldap follow=False group=ldap unsafe_writes=None serole=None content=NOT_LOGGING_PARAMETER state=file diff_peek=None setype=None dest=/etc/openldap//files selevel=None original_basename=certs-ldif.j2 regexp=None validate=None src=certs-ldif.j2 seuser=None recurse=False delimiter=None mode=493 attributes=None backup=None
+Dec 05 17:04:18 webserver python2[25156]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 17:04:19 webserver python2[25169]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files/db-ldif.j2 checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 17:04:20 webserver python2[25185]: ansible-copy Invoked with directory_mode=None force=True remote_src=None owner=ldap follow=False local_follow=None group=ldap unsafe_writes=None setype=None content=NOT_LOGGING_PARAMETER serole=None dest=/etc/openldap//files selevel=None original_basename=db-ldif.j2 regexp=None validate=None src=/root/.ansible/tmp/ansible-tmp-1512511457.86-246410463292314/source seuser=None delimiter=None mode=493 attributes=None backup=False
+Dec 05 17:04:21 webserver python2[25205]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 17:04:22 webserver python2[25221]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files/domain.ldif checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 17:04:22 webserver python2[25234]: ansible-file Invoked with directory_mode=None force=False remote_src=None path=/etc/openldap//files owner=ldap follow=False group=ldap unsafe_writes=None serole=None content=NOT_LOGGING_PARAMETER state=file diff_peek=None setype=None dest=/etc/openldap//files selevel=None original_basename=domain.ldif regexp=None validate=None src=domain.ldif seuser=None recurse=False delimiter=None mode=493 attributes=None backup=None
+Dec 05 17:04:23 webserver python2[25254]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 17:04:24 webserver python2[25267]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files/monitor-ldif.j2 checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 17:04:25 webserver python2[25280]: ansible-file Invoked with directory_mode=None force=False remote_src=None path=/etc/openldap//files owner=ldap follow=False group=ldap unsafe_writes=None serole=None content=NOT_LOGGING_PARAMETER state=file diff_peek=None setype=None dest=/etc/openldap//files selevel=None original_basename=monitor-ldif.j2 regexp=None validate=None src=monitor-ldif.j2 seuser=None recurse=False delimiter=None mode=493 attributes=None backup=None
+Dec 05 17:04:26 webserver python2[25300]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 17:04:27 webserver python2[25313]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/etc/openldap//files/user-ldif.j2 checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 17:04:27 webserver python2[25326]: ansible-file Invoked with directory_mode=None force=False remote_src=None path=/etc/openldap//files owner=ldap follow=False group=ldap unsafe_writes=None serole=None content=NOT_LOGGING_PARAMETER state=file diff_peek=None setype=None dest=/etc/openldap//files selevel=None original_basename=user-ldif.j2 regexp=None validate=None src=user-ldif.j2 seuser=None recurse=False delimiter=None mode=493 attributes=None backup=None
+Dec 05 17:04:28 webserver python2[25347]: ansible-command Invoked with warn=True executable=None _uses_shell=True _raw_params=ldapmodify -Y EXTERNAL -H ldapi:/// -f /etc/openldap//files/db-ldif.j2 removes=None creates=None chdir=None stdin=None
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 fd=11 ACCEPT from PATH=/var/run/ldapi (PATH=/var/run/ldapi)
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 op=0 BIND dn="" method=163
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 op=0 BIND authcid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" authzid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth"
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 op=0 BIND dn="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" mech=EXTERNAL sasl_ssf=0 ssf=71
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 op=0 RESULT tag=97 err=0 text=
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 op=1 MOD dn="olcDatabase={2}hdb,cn=config"
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 op=1 MOD attr=olcSuffix
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 op=1 RESULT tag=103 err=0 text=
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 op=2 MOD dn="olcDatabase={2}hdb,cn=config"
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 op=2 MOD attr=olcRootDN
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 op=2 RESULT tag=103 err=0 text=
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 op=3 MOD dn="olcDatabase={2}hdb,cn=config"
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 op=3 MOD attr=olcRootPW
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 op=3 RESULT tag=103 err=0 text=
+Dec 05 17:04:28 webserver ldapmodify[25352]: DIGEST-MD5 common mech free
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 op=4 UNBIND
+Dec 05 17:04:28 webserver slapd[24977]: conn=1000 fd=11 closed
+Dec 05 17:04:30 webserver python2[25371]: ansible-command Invoked with warn=True executable=None _uses_shell=True _raw_params=ldapmodify -Y EXTERNAL -H ldapi:/// -f /etc/openldap//files/monitor-ldif.j2 removes=None creates=None chdir=None stdin=None
+Dec 05 17:04:30 webserver slapd[24977]: conn=1001 fd=11 ACCEPT from PATH=/var/run/ldapi (PATH=/var/run/ldapi)
+Dec 05 17:04:30 webserver slapd[24977]: conn=1001 op=0 BIND dn="" method=163
+Dec 05 17:04:30 webserver slapd[24977]: conn=1001 op=0 BIND authcid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" authzid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth"
+Dec 05 17:04:30 webserver slapd[24977]: conn=1001 op=0 BIND dn="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" mech=EXTERNAL sasl_ssf=0 ssf=71
+Dec 05 17:04:30 webserver slapd[24977]: conn=1001 op=0 RESULT tag=97 err=0 text=
+Dec 05 17:04:30 webserver slapd[24977]: conn=1001 op=1 MOD dn="olcDatabase={1}monitor,cn=config"
+Dec 05 17:04:30 webserver slapd[24977]: conn=1001 op=1 MOD attr=olcAccess
+Dec 05 17:04:30 webserver slapd[24977]: conn=1001 op=1 RESULT tag=103 err=0 text=
+Dec 05 17:04:30 webserver ldapmodify[25376]: DIGEST-MD5 common mech free
+Dec 05 17:04:30 webserver slapd[24977]: conn=1001 op=2 UNBIND
+Dec 05 17:04:30 webserver slapd[24977]: conn=1001 fd=11 closed
+Dec 05 17:04:31 webserver python2[25394]: ansible-file Invoked with directory_mode=None force=False remote_src=None path=/var/lib/ldap/sfgroups.com/ owner=ldap follow=False group=ldap unsafe_writes=None state=directory content=NOT_LOGGING_PARAMETER serole=None diff_peek=None setype=None selevel=None original_basename=None regexp=None validate=None src=None seuser=None recurse=False delimiter=None mode=None attributes=None backup=None
+Dec 05 17:04:32 webserver python2[25416]: ansible-file Invoked with directory_mode=None force=False remote_src=None path=/etc/openldap//certs/ owner=ldap follow=False group=ldap unsafe_writes=None state=directory content=NOT_LOGGING_PARAMETER serole=None diff_peek=None setype=None selevel=None original_basename=None regexp=None validate=None src=None seuser=None recurse=False delimiter=None mode=None attributes=None backup=None
+Dec 05 17:04:33 webserver python2[25438]: ansible-command Invoked with creates=/etc/openldap//certs/my1.key executable=None chdir=/etc/openldap//certs/ _raw_params=openssl genrsa -des3 -passout pass:password -out my1.key 1024 removes=None warn=True _uses_shell=True stdin=None
+Dec 05 17:04:34 webserver python2[25462]: ansible-command Invoked with creates=/etc/openldap//certs/my.key executable=None chdir=/etc/openldap//certs/ _raw_params=openssl rsa -in my1.key -passin pass:password -out my.key removes=None warn=True _uses_shell=True stdin=None
+Dec 05 17:04:35 webserver python2[25485]: ansible-command Invoked with creates=/etc/openldap//certs/cert.crt executable=None chdir=/etc/openldap//certs/ _raw_params=openssl req -new -x509 -subj '/C=US/ST=OH/L=Columbus/O=IT/CN=webserver/' -days 3650 -key my.key -out cert.crt -extensions v3_ca removes=None warn=True _uses_shell=True stdin=None
+Dec 05 17:04:37 webserver python2[25511]: ansible-command Invoked with warn=True executable=None _uses_shell=True _raw_params=ldapmodify -Y EXTERNAL -H ldapi:/// -f /etc/openldap//files/certs-ldif.j2 removes=None creates=None chdir=None stdin=None
+Dec 05 17:04:37 webserver slapd[24977]: conn=1002 fd=11 ACCEPT from PATH=/var/run/ldapi (PATH=/var/run/ldapi)
+Dec 05 17:04:37 webserver slapd[24977]: conn=1002 op=0 BIND dn="" method=163
+Dec 05 17:04:37 webserver slapd[24977]: conn=1002 op=0 BIND authcid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" authzid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth"
+Dec 05 17:04:37 webserver slapd[24977]: conn=1002 op=0 BIND dn="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" mech=EXTERNAL sasl_ssf=0 ssf=71
+Dec 05 17:04:37 webserver slapd[24977]: conn=1002 op=0 RESULT tag=97 err=0 text=
+Dec 05 17:04:37 webserver slapd[24977]: conn=1002 op=1 MOD dn="cn=config"
+Dec 05 17:04:37 webserver slapd[24977]: conn=1002 op=1 MOD attr=olcTLSCertificateFile
+Dec 05 17:04:37 webserver slapd[24977]: conn=1002 op=1 RESULT tag=103 err=0 text=
+Dec 05 17:04:37 webserver slapd[24977]: conn=1002 op=2 MOD dn="cn=config"
+Dec 05 17:04:37 webserver slapd[24977]: conn=1002 op=2 MOD attr=olcTLSCertificateKeyFile
+Dec 05 17:04:37 webserver slapd[24977]: conn=1002 op=2 RESULT tag=103 err=0 text=
+Dec 05 17:04:37 webserver ldapmodify[25516]: DIGEST-MD5 common mech free
+Dec 05 17:04:37 webserver slapd[24977]: conn=1002 op=3 UNBIND
+Dec 05 17:04:37 webserver slapd[24977]: conn=1002 fd=11 closed
+Dec 05 17:04:38 webserver python2[25534]: ansible-command Invoked with warn=True executable=None _uses_shell=True _raw_params=slaptest -u removes=None creates=None chdir=None stdin=None
+Dec 05 17:04:39 webserver python2[25557]: ansible-stat Invoked with checksum_algorithm=sha1 get_checksum=True path=/var/lib/ldap/DB_CONFIG checksum_algo=sha1 follow=False get_md5=False get_mime=True get_attributes=True
+Dec 05 17:04:40 webserver python2[25571]: ansible-copy Invoked with directory_mode=None force=True remote_src=None owner=ldap follow=False local_follow=None group=ldap unsafe_writes=None setype=None content=NOT_LOGGING_PARAMETER serole=None dest=/var/lib/ldap/DB_CONFIG selevel=None original_basename=DB_CONFIG.example regexp=None validate=None src=/root/.ansible/tmp/ansible-tmp-1512511478.79-154001151672707/source seuser=None delimiter=None mode=420 attributes=None backup=False
+Dec 05 17:04:41 webserver python2[25594]: ansible-command Invoked with warn=True executable=None _uses_shell=True _raw_params=ldapadd -Y EXTERNAL -H ldapi:/// -f /etc/openldap/schema/cosine.ldif
+                                           ldapadd -Y EXTERNAL -H ldapi:/// -f /etc/openldap/schema/nis.ldif
+                                           ldapadd -Y EXTERNAL -H ldapi:/// -f /etc/openldap/schema/inetorgperson.ldif removes=None creates=None chdir=None stdin=None
+Dec 05 17:04:41 webserver slapd[24977]: conn=1003 fd=11 ACCEPT from PATH=/var/run/ldapi (PATH=/var/run/ldapi)
+Dec 05 17:04:41 webserver slapd[24977]: conn=1003 op=0 BIND dn="" method=163
+Dec 05 17:04:41 webserver slapd[24977]: conn=1003 op=0 BIND authcid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" authzid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth"
+Dec 05 17:04:41 webserver slapd[24977]: conn=1003 op=0 BIND dn="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" mech=EXTERNAL sasl_ssf=0 ssf=71
+Dec 05 17:04:41 webserver slapd[24977]: conn=1003 op=0 RESULT tag=97 err=0 text=
+Dec 05 17:04:41 webserver slapd[24977]: conn=1003 op=1 ADD dn="cn=cosine,cn=schema,cn=config"
+Dec 05 17:04:41 webserver slapd[24977]: conn=1003 op=1 RESULT tag=105 err=0 text=
+Dec 05 17:04:41 webserver ldapadd[25600]: DIGEST-MD5 common mech free
+Dec 05 17:04:41 webserver slapd[24977]: conn=1003 op=2 UNBIND
+Dec 05 17:04:41 webserver slapd[24977]: conn=1003 fd=11 closed
+Dec 05 17:04:41 webserver slapd[24977]: conn=1004 fd=11 ACCEPT from PATH=/var/run/ldapi (PATH=/var/run/ldapi)
+Dec 05 17:04:41 webserver slapd[24977]: conn=1004 op=0 BIND dn="" method=163
+Dec 05 17:04:41 webserver slapd[24977]: conn=1004 op=0 BIND authcid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" authzid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth"
+Dec 05 17:04:41 webserver slapd[24977]: conn=1004 op=0 BIND dn="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" mech=EXTERNAL sasl_ssf=0 ssf=71
+Dec 05 17:04:41 webserver slapd[24977]: conn=1004 op=0 RESULT tag=97 err=0 text=
+Dec 05 17:04:41 webserver slapd[24977]: conn=1004 op=1 ADD dn="cn=nis,cn=schema,cn=config"
+Dec 05 17:04:41 webserver slapd[24977]: conn=1004 op=1 RESULT tag=105 err=0 text=
+Dec 05 17:04:41 webserver ldapadd[25601]: DIGEST-MD5 common mech free
+Dec 05 17:04:41 webserver slapd[24977]: conn=1004 op=2 UNBIND
+Dec 05 17:04:41 webserver slapd[24977]: conn=1004 fd=11 closed
+Dec 05 17:04:41 webserver slapd[24977]: conn=1005 fd=11 ACCEPT from PATH=/var/run/ldapi (PATH=/var/run/ldapi)
+Dec 05 17:04:41 webserver slapd[24977]: conn=1005 op=0 BIND dn="" method=163
+Dec 05 17:04:41 webserver slapd[24977]: conn=1005 op=0 BIND authcid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" authzid="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth"
+Dec 05 17:04:41 webserver slapd[24977]: conn=1005 op=0 BIND dn="gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth" mech=EXTERNAL sasl_ssf=0 ssf=71
+Dec 05 17:04:41 webserver slapd[24977]: conn=1005 op=0 RESULT tag=97 err=0 text=
+Dec 05 17:04:41 webserver slapd[24977]: conn=1005 op=1 ADD dn="cn=inetorgperson,cn=schema,cn=config"
+Dec 05 17:04:41 webserver slapd[24977]: conn=1005 op=1 RESULT tag=105 err=0 text=
+Dec 05 17:04:41 webserver ldapadd[25599]: DIGEST-MD5 common mech free
+Dec 05 17:04:41 webserver slapd[24977]: conn=1005 op=2 UNBIND
+Dec 05 17:04:41 webserver slapd[24977]: conn=1005 fd=11 closed
+Dec 05 17:04:42 webserver python2[25619]: ansible-command Invoked with warn=True executable=None _uses_shell=True _raw_params=ldapadd -x -D "cn=Manager,dc=sfgroups,dc=com" -w password -f /etc/openldap//files/base-ldif.j2 removes=None creates=None chdir=None stdin=None
+Dec 05 17:04:42 webserver slapd[24977]: conn=1006 fd=11 ACCEPT from IP=[::1]:56442 (IP=[::]:389)
+Dec 05 17:04:42 webserver slapd[24977]: conn=1006 op=0 BIND dn="cn=Manager,dc=sfgroups,dc=com" method=128
+Dec 05 17:04:42 webserver slapd[24977]: conn=1006 op=0 BIND dn="cn=Manager,dc=sfgroups,dc=com" mech=SIMPLE ssf=0
+Dec 05 17:04:42 webserver slapd[24977]: conn=1006 op=0 RESULT tag=97 err=0 text=
+Dec 05 17:04:42 webserver slapd[24977]: conn=1006 op=1 ADD dn="dc=sfgroups,dc=com"
+Dec 05 17:04:42 webserver slapd[24977]: conn=1006 op=1 RESULT tag=105 err=64 text=value of single-valued naming attribute 'dc' conflicts with value present in entry
+Dec 05 17:04:42 webserver slapd[24977]: conn=1006 op=2 UNBIND
+Dec 05 17:04:42 webserver slapd[24977]: conn=1006 fd=11 closed
+Dec 05 17:10:01 webserver systemd[1]: Started Session 340 of user root.
+-- Subject: Unit session-340.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-340.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 17:10:01 webserver systemd[1]: Starting Session 340 of user root.
+-- Subject: Unit session-340.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-340.scope has begun starting up.
+Dec 05 17:10:01 webserver CROND[25759]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 17:13:48 webserver run-parts(/etc/cron.hourly)[25914]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 05 17:13:48 webserver postfix/pickup[22807]: D8D0D43CAB7C: uid=0 from=<root>
+Dec 05 17:13:48 webserver postfix/cleanup[25916]: D8D0D43CAB7C: message-id=<20171205221348.D8D0D43CAB7C@webserver.localdomain>
+Dec 05 17:13:48 webserver postfix/qmgr[2166]: D8D0D43CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 05 17:13:49 webserver postfix/local[25918]: D8D0D43CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.19, delays=0.11/0.07/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 05 17:13:49 webserver postfix/qmgr[2166]: D8D0D43CAB7C: removed
+Dec 05 17:15:13 webserver firefox.desktop[4402]: 1512512113670        addons.update-checker        WARN        Update manifest for aushelper@mozilla.org did not contain an updates property
+Dec 05 17:15:13 webserver firefox.desktop[4402]: 1512512113726        addons.update-checker        WARN        Update manifest for e10srollout@mozilla.org did not contain an updates property
+Dec 05 17:15:13 webserver firefox.desktop[4402]: 1512512113739        addons.update-checker        WARN        Update manifest for firefox@getpocket.com did not contain an updates property
+Dec 05 17:15:13 webserver firefox.desktop[4402]: 1512512113761        addons.update-checker        WARN        Update manifest for webcompat@mozilla.org did not contain an updates property
+Dec 05 17:15:13 webserver firefox.desktop[4402]: 1512512113806        addons.update-checker        WARN        Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Dec 05 17:20:01 webserver systemd[1]: Started Session 341 of user root.
+-- Subject: Unit session-341.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-341.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 17:20:01 webserver systemd[1]: Starting Session 341 of user root.
+-- Subject: Unit session-341.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-341.scope has begun starting up.
+Dec 05 17:20:02 webserver CROND[26082]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 17:30:01 webserver systemd[1]: Started Session 342 of user root.
+-- Subject: Unit session-342.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-342.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 17:30:01 webserver systemd[1]: Starting Session 342 of user root.
+-- Subject: Unit session-342.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-342.scope has begun starting up.
+Dec 05 17:30:01 webserver CROND[26318]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 17:40:01 webserver systemd[1]: Started Session 343 of user root.
+-- Subject: Unit session-343.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-343.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 17:40:01 webserver systemd[1]: Starting Session 343 of user root.
+-- Subject: Unit session-343.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-343.scope has begun starting up.
+Dec 05 17:40:01 webserver CROND[26553]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 17:46:02 webserver anacron[24532]: [1;39mJob `cron.daily' started[0m
+Dec 05 17:46:02 webserver run-parts(/etc/cron.daily)[26696]: [1;39mstarting 0yum-daily.cron[0m
+Dec 05 17:50:01 webserver systemd[1]: Started Session 344 of user root.
+-- Subject: Unit session-344.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-344.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 17:50:01 webserver systemd[1]: Starting Session 344 of user root.
+-- Subject: Unit session-344.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-344.scope has begun starting up.
+Dec 05 17:50:01 webserver CROND[26787]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 18:00:01 webserver systemd[1]: Started Session 345 of user root.
+-- Subject: Unit session-345.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-345.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 18:00:01 webserver systemd[1]: Starting Session 345 of user root.
+-- Subject: Unit session-345.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-345.scope has begun starting up.
+Dec 05 18:00:01 webserver CROND[27026]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 18:01:01 webserver systemd[1]: Started Session 346 of user root.
+-- Subject: Unit session-346.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-346.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 18:01:01 webserver systemd[1]: Starting Session 346 of user root.
+-- Subject: Unit session-346.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-346.scope has begun starting up.
+Dec 05 18:01:01 webserver CROND[27056]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 05 18:01:01 webserver run-parts(/etc/cron.hourly)[27059]: [1;39mstarting 0anacron[0m
+Dec 05 18:01:01 webserver anacron[27066]: [1;39mAnacron started on 2017-12-05[0m
+Dec 05 18:01:01 webserver anacron[27066]: [1;39mJob `cron.daily' locked by another anacron - skipping[0m
+Dec 05 18:01:01 webserver anacron[27066]: [1;39mJob `cron.weekly' locked by another anacron - skipping[0m
+Dec 05 18:01:01 webserver anacron[27066]: [1;39mNormal exit (0 jobs run)[0m
+Dec 05 18:01:01 webserver run-parts(/etc/cron.hourly)[27068]: [1;39mfinished 0anacron[0m
+Dec 05 18:01:01 webserver run-parts(/etc/cron.hourly)[27070]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 05 18:04:12 webserver run-parts(/etc/cron.hourly)[27208]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 05 18:04:12 webserver postfix/pickup[27210]: 4E49843CAB7C: uid=0 from=<root>
+Dec 05 18:04:12 webserver postfix/cleanup[27211]: 4E49843CAB7C: message-id=<20171205230412.4E49843CAB7C@webserver.localdomain>
+Dec 05 18:04:12 webserver postfix/qmgr[2166]: 4E49843CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 05 18:04:12 webserver postfix/local[27214]: 4E49843CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.26, delays=0.21/0.04/0/0, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 05 18:04:12 webserver postfix/qmgr[2166]: 4E49843CAB7C: removed
+Dec 05 18:09:13 webserver systemd[1]: Starting Cleanup of Temporary Directories...
+-- Subject: Unit systemd-tmpfiles-clean.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-tmpfiles-clean.service has begun starting up.
+Dec 05 18:09:14 webserver systemd[1]: Started Cleanup of Temporary Directories.
+-- Subject: Unit systemd-tmpfiles-clean.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-tmpfiles-clean.service has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 18:10:01 webserver systemd[1]: Started Session 347 of user root.
+-- Subject: Unit session-347.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-347.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 18:10:01 webserver systemd[1]: Starting Session 347 of user root.
+-- Subject: Unit session-347.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-347.scope has begun starting up.
+Dec 05 18:10:01 webserver CROND[27342]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 18:20:01 webserver systemd[1]: Started Session 348 of user root.
+-- Subject: Unit session-348.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-348.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 18:20:01 webserver systemd[1]: Starting Session 348 of user root.
+-- Subject: Unit session-348.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-348.scope has begun starting up.
+Dec 05 18:20:01 webserver CROND[27580]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 18:30:01 webserver systemd[1]: Started Session 349 of user root.
+-- Subject: Unit session-349.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-349.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 18:30:01 webserver CROND[27819]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 18:30:01 webserver systemd[1]: Starting Session 349 of user root.
+-- Subject: Unit session-349.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-349.scope has begun starting up.
+Dec 05 18:40:01 webserver systemd[1]: Started Session 350 of user root.
+-- Subject: Unit session-350.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-350.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 18:40:01 webserver systemd[1]: Starting Session 350 of user root.
+-- Subject: Unit session-350.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-350.scope has begun starting up.
+Dec 05 18:40:01 webserver CROND[28054]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 18:50:01 webserver systemd[1]: Started Session 351 of user root.
+-- Subject: Unit session-351.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-351.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 18:50:01 webserver systemd[1]: Starting Session 351 of user root.
+-- Subject: Unit session-351.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-351.scope has begun starting up.
+Dec 05 18:50:01 webserver CROND[28292]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 19:00:01 webserver systemd[1]: Started Session 352 of user root.
+-- Subject: Unit session-352.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-352.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 19:00:01 webserver systemd[1]: Starting Session 352 of user root.
+-- Subject: Unit session-352.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-352.scope has begun starting up.
+Dec 05 19:00:01 webserver CROND[28541]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 19:01:01 webserver systemd[1]: Started Session 353 of user root.
+-- Subject: Unit session-353.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-353.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 19:01:01 webserver systemd[1]: Starting Session 353 of user root.
+-- Subject: Unit session-353.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-353.scope has begun starting up.
+Dec 05 19:01:01 webserver CROND[28568]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 05 19:01:01 webserver run-parts(/etc/cron.hourly)[28571]: [1;39mstarting 0anacron[0m
+Dec 05 19:01:01 webserver anacron[28578]: [1;39mAnacron started on 2017-12-05[0m
+Dec 05 19:01:01 webserver anacron[28578]: [1;39mJob `cron.daily' locked by another anacron - skipping[0m
+Dec 05 19:01:01 webserver anacron[28578]: [1;39mJob `cron.weekly' locked by another anacron - skipping[0m
+Dec 05 19:01:01 webserver anacron[28578]: [1;39mNormal exit (0 jobs run)[0m
+Dec 05 19:01:01 webserver run-parts(/etc/cron.hourly)[28580]: [1;39mfinished 0anacron[0m
+Dec 05 19:01:01 webserver run-parts(/etc/cron.hourly)[28582]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 05 19:04:32 webserver run-parts(/etc/cron.hourly)[28719]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 05 19:04:32 webserver postfix/pickup[27210]: 65AA643CAB7C: uid=0 from=<root>
+Dec 05 19:04:32 webserver postfix/cleanup[28721]: 65AA643CAB7C: message-id=<20171206000432.65AA643CAB7C@webserver.localdomain>
+Dec 05 19:04:32 webserver postfix/qmgr[2166]: 65AA643CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 05 19:04:32 webserver postfix/local[28724]: 65AA643CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.2, delays=0.12/0.06/0/0.02, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 05 19:04:32 webserver postfix/qmgr[2166]: 65AA643CAB7C: removed
+Dec 05 19:10:01 webserver systemd[1]: Started Session 354 of user root.
+-- Subject: Unit session-354.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-354.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 19:10:01 webserver systemd[1]: Starting Session 354 of user root.
+-- Subject: Unit session-354.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-354.scope has begun starting up.
+Dec 05 19:10:01 webserver CROND[28848]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 19:20:01 webserver systemd[1]: Started Session 355 of user root.
+-- Subject: Unit session-355.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-355.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 19:20:01 webserver systemd[1]: Starting Session 355 of user root.
+-- Subject: Unit session-355.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-355.scope has begun starting up.
+Dec 05 19:20:01 webserver CROND[29090]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 19:30:01 webserver systemd[1]: Started Session 356 of user root.
+-- Subject: Unit session-356.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-356.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 19:30:01 webserver systemd[1]: Starting Session 356 of user root.
+-- Subject: Unit session-356.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-356.scope has begun starting up.
+Dec 05 19:30:01 webserver CROND[29325]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 19:40:01 webserver systemd[1]: Started Session 357 of user root.
+-- Subject: Unit session-357.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-357.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 19:40:01 webserver systemd[1]: Starting Session 357 of user root.
+-- Subject: Unit session-357.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-357.scope has begun starting up.
+Dec 05 19:40:01 webserver CROND[29560]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 19:45:54 webserver kernel: [1;39mhrtimer: interrupt took 5064013 ns[0m
+Dec 05 19:50:01 webserver systemd[1]: Started Session 358 of user root.
+-- Subject: Unit session-358.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-358.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 19:50:01 webserver CROND[29799]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 19:50:01 webserver systemd[1]: Starting Session 358 of user root.
+-- Subject: Unit session-358.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-358.scope has begun starting up.
+Dec 05 20:00:01 webserver systemd[1]: Started Session 359 of user root.
+-- Subject: Unit session-359.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-359.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 20:00:01 webserver systemd[1]: Starting Session 359 of user root.
+-- Subject: Unit session-359.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-359.scope has begun starting up.
+Dec 05 20:00:01 webserver CROND[30039]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 20:01:01 webserver systemd[1]: Started Session 360 of user root.
+-- Subject: Unit session-360.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-360.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 20:01:01 webserver systemd[1]: Starting Session 360 of user root.
+-- Subject: Unit session-360.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-360.scope has begun starting up.
+Dec 05 20:01:01 webserver CROND[30069]: (root) CMD (run-parts /etc/cron.hourly)
+Dec 05 20:01:01 webserver run-parts(/etc/cron.hourly)[30072]: [1;39mstarting 0anacron[0m
+Dec 05 20:01:01 webserver anacron[30079]: [1;39mAnacron started on 2017-12-05[0m
+Dec 05 20:01:01 webserver anacron[30079]: [1;39mJob `cron.daily' locked by another anacron - skipping[0m
+Dec 05 20:01:01 webserver anacron[30079]: [1;39mJob `cron.weekly' locked by another anacron - skipping[0m
+Dec 05 20:01:01 webserver anacron[30079]: [1;39mNormal exit (0 jobs run)[0m
+Dec 05 20:01:01 webserver run-parts(/etc/cron.hourly)[30081]: [1;39mfinished 0anacron[0m
+Dec 05 20:01:01 webserver run-parts(/etc/cron.hourly)[30083]: [1;39mstarting 0yum-hourly.cron[0m
+Dec 05 20:01:26 webserver slapd[24977]: conn=1007 fd=11 ACCEPT from IP=[::1]:56768 (IP=[::]:389)
+Dec 05 20:01:26 webserver slapd[24977]: conn=1007 op=0 do_bind: invalid dn ("cn=Manager,dc=sfgroups,dc=com")
+Dec 05 20:01:26 webserver slapd[24977]: conn=1007 op=0 RESULT tag=97 err=34 text=invalid DN
+Dec 05 20:01:26 webserver slapd[24977]: conn=1007 op=1 UNBIND
+Dec 05 20:01:26 webserver slapd[24977]: conn=1007 fd=11 closed
+Dec 05 20:01:40 webserver slapd[24977]: conn=1008 fd=11 ACCEPT from IP=[::1]:56770 (IP=[::]:389)
+Dec 05 20:01:40 webserver slapd[24977]: conn=1008 op=0 BIND dn="cn=Manager,dc=sfgroups,dc=com" method=128
+Dec 05 20:01:40 webserver slapd[24977]: conn=1008 op=0 BIND dn="cn=Manager,dc=sfgroups,dc=com" mech=SIMPLE ssf=0
+Dec 05 20:01:40 webserver slapd[24977]: conn=1008 op=0 RESULT tag=97 err=0 text=
+Dec 05 20:01:40 webserver slapd[24977]: conn=1008 op=1 ADD dn="dc=sfgroups,dc=com"
+Dec 05 20:01:40 webserver slapd[24977]: conn=1008 op=1 RESULT tag=105 err=64 text=value of single-valued naming attribute 'dc' conflicts with value present in entry
+Dec 05 20:01:40 webserver slapd[24977]: conn=1008 op=2 UNBIND
+Dec 05 20:01:40 webserver slapd[24977]: conn=1008 fd=11 closed
+Dec 05 20:03:38 webserver run-parts(/etc/cron.hourly)[30212]: [1;39mfinished 0yum-hourly.cron[0m
+Dec 05 20:03:38 webserver postfix/pickup[29634]: ECE8F43CAB7C: uid=0 from=<root>
+Dec 05 20:03:39 webserver postfix/cleanup[30214]: ECE8F43CAB7C: message-id=<20171206010338.ECE8F43CAB7C@webserver.localdomain>
+Dec 05 20:03:39 webserver postfix/qmgr[2166]: ECE8F43CAB7C: from=<root@webserver.localdomain>, size=873, nrcpt=1 (queue active)
+Dec 05 20:03:39 webserver postfix/local[30217]: ECE8F43CAB7C: to=<root@webserver.localdomain>, orig_to=<root>, relay=local, delay=0.21, delays=0.12/0.07/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
+Dec 05 20:03:39 webserver postfix/qmgr[2166]: ECE8F43CAB7C: removed
+Dec 05 20:06:59 webserver slapd[24977]: conn=1009 fd=11 ACCEPT from IP=[::1]:56850 (IP=[::]:389)
+Dec 05 20:06:59 webserver slapd[24977]: conn=1009 op=0 BIND dn="" method=128
+Dec 05 20:06:59 webserver slapd[24977]: conn=1009 op=0 RESULT tag=97 err=0 text=
+Dec 05 20:06:59 webserver slapd[24977]: conn=1009 op=1 SRCH base="" scope=0 deref=0 filter="(objectClass=*)"
+Dec 05 20:06:59 webserver slapd[24977]: conn=1009 op=1 SEARCH RESULT tag=101 err=0 nentries=1 text=
+Dec 05 20:06:59 webserver slapd[24977]: conn=1009 op=2 UNBIND
+Dec 05 20:06:59 webserver slapd[24977]: conn=1009 fd=11 closed
+Dec 05 20:09:14 webserver slapd[24977]: conn=1010 fd=11 ACCEPT from IP=[::1]:56852 (IP=[::]:389)
+Dec 05 20:09:14 webserver slapd[24977]: conn=1010 op=0 BIND dn="cn=Manager,dc=sfgroups,dc=com" method=128
+Dec 05 20:09:14 webserver slapd[24977]: conn=1010 op=0 BIND dn="cn=Manager,dc=sfgroups,dc=com" mech=SIMPLE ssf=0
+Dec 05 20:09:14 webserver slapd[24977]: conn=1010 op=0 RESULT tag=97 err=0 text=
+Dec 05 20:09:14 webserver slapd[24977]: conn=1010 op=1 ADD dn="dc=sfgroups,dc=com"
+Dec 05 20:09:14 webserver slapd[24977]: conn=1010 op=1 RESULT tag=105 err=64 text=value of single-valued naming attribute 'dc' conflicts with value present in entry
+Dec 05 20:09:14 webserver slapd[24977]: conn=1010 op=2 UNBIND
+Dec 05 20:09:14 webserver slapd[24977]: conn=1010 fd=11 closed
+Dec 05 20:09:52 webserver slapd[24977]: conn=1011 fd=11 ACCEPT from IP=[::1]:56854 (IP=[::]:389)
+Dec 05 20:09:52 webserver slapd[24977]: conn=1011 op=0 BIND dn="cn=Manager,dc=sfgroups,dc=com" method=128
+Dec 05 20:09:52 webserver slapd[24977]: conn=1011 op=0 BIND dn="cn=Manager,dc=sfgroups,dc=com" mech=SIMPLE ssf=0
+Dec 05 20:09:52 webserver slapd[24977]: conn=1011 op=0 RESULT tag=97 err=0 text=
+Dec 05 20:09:52 webserver slapd[24977]: conn=1011 op=1 ADD dn="dc=sfgroups,dc=com"
+Dec 05 20:09:52 webserver slapd[24977]: conn=1011 op=1 RESULT tag=105 err=64 text=value of single-valued naming attribute 'dc' conflicts with value present in entry
+Dec 05 20:09:52 webserver slapd[24977]: conn=1011 op=2 UNBIND
+Dec 05 20:09:52 webserver slapd[24977]: conn=1011 fd=11 closed
+Dec 05 20:10:01 webserver systemd[1]: Started Session 361 of user root.
+-- Subject: Unit session-361.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-361.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Dec 05 20:10:01 webserver systemd[1]: Starting Session 361 of user root.
+-- Subject: Unit session-361.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-361.scope has begun starting up.
+Dec 05 20:10:01 webserver CROND[30408]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Dec 05 20:12:17 webserver polkitd[666]: [1;39mRegistered Authentication Agent for unix-process:30478:18108923 (system bus name :1.854 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)[0m
+Dec 05 20:12:17 webserver slapd[24977]: daemon: shutdown requested and initiated.
+Dec 05 20:12:17 webserver systemd[1]: Stopping OpenLDAP Server Daemon...
+-- Subject: Unit slapd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has begun shutting down.
+Dec 05 20:12:17 webserver slapd[24977]: slapd shutdown: waiting for 0 operations/tasks to finish
+Dec 05 20:12:17 webserver slapd[24977]: DIGEST-MD5 common mech free
+Dec 05 20:12:17 webserver slapd[24977]: slapd stopped.
+Dec 05 20:12:17 webserver systemd[1]: Stopped OpenLDAP Server Daemon.
+-- Subject: Unit slapd.service has finished shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has finished shutting down.
+Dec 05 20:12:17 webserver polkitd[666]: [1;39mUnregistered Authentication Agent for unix-process:30478:18108923 (system bus name :1.854, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)[0m
+Dec 05 20:12:32 webserver slapadd[30491]: DIGEST-MD5 common mech free
+Dec 05 20:12:38 webserver slapadd[30495]: DIGEST-MD5 common mech free
+Dec 05 20:12:48 webserver slapadd[30508]: DIGEST-MD5 common mech free
+Dec 05 20:14:47 webserver slapadd[30631]: DIGEST-MD5 common mech free
+Dec 05 20:17:13 webserver slapadd[30703]: DIGEST-MD5 common mech free
+Dec 05 20:17:22 webserver slapadd[30708]: DIGEST-MD5 common mech free
+Dec 05 20:18:38 webserver python2[30821]: ansible-setup Invoked with filter=* gather_subset=['all'] fact_path=/etc/ansible/facts.d gather_timeout=10
+Dec 05 20:18:44 webserver python2[30933]: ansible-yum Invoked with allow_downgrade=False name=['openldap', 'openldap-servers', 'openldap-clients', 'libselinux-python', 'openssl'] list=None install_repoquery=True conf_file=None disable_gpg_check=False state=installed disablerepo=None update_cache=False enablerepo=None exclude=None security=False validate_certs=True installroot=/ skip_broken=False
+Dec 05 20:18:46 webserver python2[30955]: ansible-systemd Invoked with no_block=False name=slapd enabled=True daemon_reload=False state=started user=False masked=None
+Dec 05 20:18:46 webserver systemd[1]: Starting OpenLDAP Server Daemon...
+-- Subject: Unit slapd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has begun starting up.
+Dec 05 20:18:46 webserver runuser[30966]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 05 20:18:46 webserver runuser[30966]: pam_unix(runuser:session): session closed for user ldap
+Dec 05 20:18:46 webserver slapcat[30970]: DIGEST-MD5 common mech free
+Dec 05 20:18:46 webserver runuser[30977]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 05 20:18:46 webserver runuser[30977]: pam_unix(runuser:session): session closed for user ldap
+Dec 05 20:18:46 webserver runuser[30979]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 05 20:18:46 webserver runuser[30979]: pam_unix(runuser:session): session closed for user ldap
+Dec 05 20:18:46 webserver runuser[30981]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 05 20:18:46 webserver runuser[30981]: pam_unix(runuser:session): session closed for user ldap
+Dec 05 20:18:46 webserver runuser[30983]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 05 20:18:46 webserver runuser[30983]: pam_unix(runuser:session): session closed for user ldap
+Dec 05 20:18:46 webserver runuser[30985]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 05 20:18:46 webserver runuser[30985]: pam_unix(runuser:session): session closed for user ldap
+Dec 05 20:18:46 webserver runuser[30987]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 05 20:18:46 webserver runuser[30987]: pam_unix(runuser:session): session closed for user ldap
+Dec 05 20:18:46 webserver runuser[30989]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 05 20:18:46 webserver runuser[30989]: pam_unix(runuser:session): session closed for user ldap
+Dec 05 20:18:46 webserver runuser[30992]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 05 20:18:46 webserver runuser[30992]: pam_unix(runuser:session): session closed for user ldap
+Dec 05 20:18:46 webserver check-config.sh[30963]: Read/write permissions for DB file '/var/lib/ldap/objectClass.bdb' are required.
+Dec 05 20:18:46 webserver runuser[30994]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 05 20:18:46 webserver runuser[30994]: pam_unix(runuser:session): session closed for user ldap
+Dec 05 20:18:46 webserver check-config.sh[30963]: Read/write permissions for DB file '/var/lib/ldap/cn.bdb' are required.
+Dec 05 20:18:46 webserver runuser[30996]: pam_unix(runuser:session): session opened for user ldap by (uid=0)
+Dec 05 20:18:46 webserver runuser[30996]: pam_unix(runuser:session): session closed for user ldap
+Dec 05 20:18:46 webserver systemd[1]: [1;39mslapd.service: control process exited, code=exited status=1[0m
+Dec 05 20:18:46 webserver check-config.sh[30963]: Read/write permissions for DB file '/var/lib/ldap/ou.bdb' are required.
+Dec 05 20:18:46 webserver systemd[1]: [1;31mFailed to start OpenLDAP Server Daemon.[0m
+-- Subject: Unit slapd.service has failed
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit slapd.service has failed.
+-- 
+-- The result is failed.
+Dec 05 20:18:46 webserver systemd[1]: [1;39mUnit slapd.service entered failed state.[0m
+Dec 05 20:18:46 webserver systemd[1]: [1;39mslapd.service failed.[0m
