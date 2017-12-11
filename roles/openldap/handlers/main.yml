@@ -3,8 +3,17 @@
   service: name=iptables state=restarted enabled=yes
 
 - name: restart slapd
-  service: name=slapd state=restarted enabled=yes
+  systemd:
+    name: slapd 
+    state: restarted 
+    enabled: True
 
 - name: restart httpd
   service: name=httpd state=restarted enabled=yes
+
+- name: restart rsyslog
+  systemd:
+    name: rsyslog
+    state: restarted
+    enabled: True
 

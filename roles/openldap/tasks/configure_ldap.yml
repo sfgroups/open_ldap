@@ -49,4 +49,29 @@
   register: command_result
   failed_when: "'FAILED' in command_result.stderr"
 
+- name: add the sample ser
+  shell: |
+    ldapadd -x -D "cn=Manager,dc={{ openldap_server_domain_name.split('.')[0] }},dc={{ openldap_server_domain_name.split('.')[1] }}" -w {{ openldap_server_rootpw }} -f {{ openldap_server_app_path }}files/user-ldif.j2
+    ldappasswd -x -s abc123 -D "cn=Manager,dc={{ openldap_server_domain_name.split('.')[0] }},dc={{ openldap_server_domain_name.split('.')[1] }}" -w {{ openldap_server_rootpw }}  -x "uid=webuser,ou=People,dc={{ openldap_server_domain_name.split('.')[0] }},dc={{ openldap_server_domain_name.split('.')[1] }}"
+    ldapsearch -x cn=webuser -b "dc={{ openldap_server_domain_name.split('.')[0] }},dc={{ openldap_server_domain_name.split('.')[1] }}"
+  ignore_errors: yes
+  register: command_result
+  failed_when: "'FAILED' in command_result.stderr"
+  tags: logs
+
+- name: Update syslog
+  lineinfile:
+    path: /etc/rsyslog.conf
+    line: 'local4.* /var/log/ldap.log'
+  tags: logs
+  notify:
+    - restart rsyslog
+
+- name: Update syslog
+  lineinfile:
+    path: /etc/sysconfig/slapd
+    line: 'SLAPD_URLS="ldapi:/// ldap:/// ldaps:///"'
+  tags: lconfig
+  notify:
+    - restart slapd
 
